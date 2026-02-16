@@ -1,0 +1,7 @@
+role_id,role_title,department,target_start_date,open_date,target_hires,estimated_value_per_day_sek
+R001,DevOps Engineer,Engineering,2026-03-11,2026-01-01,2,6949
+R002,Backend Engineer,Tech,2026-04-16,2025-12-27,1,9276
+R003,Product Manager,Tech,2026-03-23,2026-02-11,2,11780
+R004,Product Manager,Engineering,2026-05-18,2026-01-02,3,10074
+R005,ML Engineer,Engineering,2026-04-25,2026-02-09,3,7053
+R006,DevOps Engineer,IT,2026-04-24,2026-01-25,1,11340
