@@ -1,0 +1,651 @@
+candidate_id,candidate_name,role_id,availability_date,last_contacted_date,engagement,open_to_roles,preferred_work_mode,location,skills,years_experience
+C8904817,Sam Olsson,R006,2026-03-27,2026-01-30,Cold,No,On site,Gothenburg,"AWS, Docker, GCP, Looker, REST APIs",4
+C8776394,Emma Svensson,R004,2026-07-05,2026-01-28,Warm,Maybe,Remote,Remote,"Excel, Node, Power BI, Python, Snowflake, Terraform",4
+C5243290,Quinn Berg,R004,2026-04-18,2026-01-14,Warm,Yes,On site,Stockholm,"Airflow, CI CD, PostgreSQL, Tableau, Testing",5
+C9815987,Elin Berg,R003,2026-03-25,2025-12-28,Cold,Maybe,On site,Stockholm,"Airflow, Docker, Excel, FastAPI, Node, REST APIs, SQL, Snowflake",0
+C1384359,Liam Svensson,R006,2026-03-19,2026-02-12,Warm,Yes,On site,Gothenburg,"Azure, Docker, FastAPI, Node, Pandas, React, Snowflake",0
+C9206034,Avery Svensson,R004,2026-07-01,2025-12-09,Cold,Yes,Remote,Malmo,"Data Modeling, Docker, Excel, Kubernetes, Looker, Node, Pandas, Python, Snowflake, Testing",4
+C6550394,Jordan Svensson,R003,2026-07-01,2026-02-04,Cold,Yes,Hybrid,Uppsala,"Airflow, CI CD, Data Modeling, Node, SQL, Spark",4
+C8091491,Cameron Eriksson,R002,2026-04-09,2026-02-06,Neutral,No,Remote,Uppsala,"Azure, Docker, GCP, Linux, Pandas, PostgreSQL, Python, React",4
+C1493057,Robin Larsson,R006,2026-07-05,2026-01-26,Warm,Yes,Hybrid,Malmo,"Azure, Data Modeling, ETL, Excel, Node, Pandas, SQL, Snowflake, Terraform",2
+C1133398,Sofia Svensson,R005,2026-04-07,2026-02-04,Warm,Maybe,Remote,Uppsala,"AWS, Airflow, Excel, Looker, Pandas, Power BI, Testing, dbt",8
+C4983479,Elin Persson,R003,2026-06-12,2026-01-15,Warm,Maybe,Hybrid,Gothenburg,"Airflow, Docker, Python, React, Tableau",7
+C1699236,Skyler Larsson,R001,2026-05-27,2026-01-26,Neutral,Maybe,On site,Stockholm,"Airflow, GCP, Kubernetes, Node, Power BI, Python, Tableau",5
+C6331974,Cameron Nilsson,R005,2026-04-20,2026-01-14,Cold,No,Remote,Uppsala,"Azure, Excel, FastAPI, Looker, Node, Tableau",6
+C9968788,Jordan Persson,R004,2026-03-03,2026-01-10,Warm,No,Remote,Remote,"Kubernetes, Looker, Python, REST APIs, SQL, Spark, Tableau, dbt",5
+C1160043,Sam Johansson,R005,2026-03-03,2026-02-08,Warm,Yes,Hybrid,Stockholm,"Airflow, Docker, Kubernetes, Looker, PostgreSQL, React, Snowflake, Terraform",2
+C0053831,Avery Persson,R003,2026-06-15,2026-02-04,Neutral,Yes,Hybrid,Gothenburg,"GCP, Node, Power BI, Terraform, dbt",7
+C8415536,Maja Berg,R004,2026-06-01,2026-02-06,Cold,No,Hybrid,Malmo,"Excel, FastAPI, Kubernetes, PostgreSQL, Python, Snowflake",3
+C4811304,Jordan Larsson,R002,2026-06-17,2026-02-12,Warm,No,Remote,Uppsala,"Docker, ETL, FastAPI, Node, Pandas, Power BI, Tableau, Testing",0
+C6685333,Sofia Lind,R004,2026-03-14,2026-02-15,Warm,Maybe,Remote,Stockholm,"Airflow, Data Modeling, Docker, GCP, Spark, Tableau, Testing, dbt",7
+C9151816,Jordan Berg,R006,2026-06-02,2026-02-06,Cold,Yes,Hybrid,Uppsala,"AWS, CI CD, Linux, Snowflake, Spark",5
+C8833740,Elin Svensson,R001,2026-03-13,2026-02-01,Warm,No,Remote,Uppsala,"Azure, ETL, Linux, Looker, Pandas, PostgreSQL, Python, React",7
+C2768518,Riley Olsson,R005,2026-05-02,2026-02-06,Cold,No,Remote,Malmo,"Docker, Looker, Power BI, Python, Snowflake, Spark",7
+C6118757,Skyler Berg,R001,2026-03-31,2026-01-14,Neutral,Maybe,On site,Remote,"Azure, Docker, Node, Power BI, REST APIs, Tableau",3
+C0773082,Emma Berg,R002,2026-05-03,2026-02-03,Cold,No,On site,Remote,"AWS, CI CD, Data Modeling, Excel, Node, PostgreSQL, Power BI, REST APIs, SQL, dbt",0
+C1559497,Noah Karlsson,R005,2026-03-12,2025-11-26,Neutral,No,Hybrid,Remote,"Data Modeling, GCP, Looker, Node, Power BI, Python, Snowflake, Tableau, Testing, dbt",2
+C2829620,Taylor Andersson,R001,2026-07-05,2025-12-16,Warm,Yes,Remote,Malmo,"Docker, Excel, Kubernetes, Node, REST APIs, SQL, Tableau",7
+C6822572,Riley Nilsson,R004,2026-03-11,2026-02-14,Neutral,Yes,On site,Stockholm,"Azure, Data Modeling, Docker, ETL, FastAPI, Linux, Pandas, React, Testing",4
+C6982754,Liam Gustafsson,R004,2026-03-20,2026-01-17,Neutral,Yes,On site,Uppsala,"Azure, GCP, Kubernetes, Looker, SQL, Snowflake, Terraform",4
+C8978728,Quinn Nilsson,R006,2026-06-06,2025-12-05,Neutral,No,On site,Remote,"AWS, Excel, Looker, Node, Pandas, Tableau, Terraform, Testing, dbt",7
+C2019354,Skyler Lind,R005,2026-04-29,2026-01-03,Neutral,Maybe,Hybrid,Malmo,"Airflow, CI CD, Docker, ETL, Pandas, PostgreSQL, Python, Spark, Terraform",7
+C2055710,Maja Lind,R004,2026-04-15,2026-02-07,Cold,Yes,Hybrid,Malmo,"CI CD, FastAPI, Kubernetes, Node, Pandas, REST APIs, React, SQL, Snowflake",8
+C6094160,Alex Gustafsson,R005,2026-06-26,2026-02-13,Warm,No,Remote,Malmo,"AWS, Airflow, FastAPI, Node, PostgreSQL, Python, REST APIs, SQL",6
+C8148608,Riley Andersson,R001,2026-04-16,2025-12-21,Cold,No,Remote,Stockholm,"CI CD, Data Modeling, Docker, Excel, Linux, Node, React",3
+C0318833,Skyler Persson,R006,2026-04-27,2026-02-04,Warm,No,Remote,Gothenburg,"Azure, CI CD, Docker, Linux, Looker, Python, React, SQL, Snowflake, Spark",6
+C1326224,Sofia Karlsson,R002,2026-03-03,2026-01-17,Cold,Maybe,On site,Gothenburg,"AWS, Azure, CI CD, Data Modeling, Docker, Looker, Testing, dbt",3
+C9610282,Sam Olsson,R006,2026-04-26,2026-02-12,Neutral,Maybe,Hybrid,Remote,"CI CD, ETL, Kubernetes, Python, REST APIs, Tableau",4
+C3653253,Maja Karlsson,R006,2026-06-11,2026-01-18,Cold,No,Hybrid,Stockholm,"Kubernetes, Linux, Looker, Python, REST APIs, React, Spark, Tableau",5
+C2682241,Skyler Eriksson,R004,2026-04-09,2026-02-11,Warm,No,Remote,Gothenburg,"AWS, Data Modeling, FastAPI, GCP, PostgreSQL, Power BI, Python, Tableau",3
+C1110377,Sam Nilsson,R005,2026-06-08,2026-01-01,Neutral,Yes,Hybrid,Uppsala,"Data Modeling, Docker, Linux, Node, REST APIs, Spark, dbt",1
+C0134264,Robin Andersson,R006,2026-04-25,2025-12-23,Warm,No,Hybrid,Remote,"ETL, GCP, Power BI, Snowflake, Tableau",0
+C4801411,Morgan Karlsson,R006,2026-06-29,2026-02-14,Warm,Maybe,Remote,Remote,"FastAPI, Looker, Snowflake, Tableau, dbt",7
+C6928563,Drew Karlsson,R005,2026-03-10,2026-02-07,Cold,Yes,Remote,Gothenburg,"Azure, Data Modeling, ETL, Node, SQL",8
+C3308869,Liam Nilsson,R006,2026-03-26,2025-12-07,Neutral,No,Hybrid,Gothenburg,"AWS, Airflow, Azure, ETL, Pandas, PostgreSQL, React, Snowflake, Spark, Testing",3
+C7897035,Avery Berg,R005,2026-04-15,2026-02-08,Cold,Yes,Hybrid,Uppsala,"AWS, Azure, FastAPI, Power BI, Tableau",8
+C6381430,Taylor Johansson,R004,2026-05-28,2026-02-04,Warm,Yes,On site,Remote,"CI CD, Excel, Power BI, Snowflake, dbt",7
+C7277413,Emma Gustafsson,R001,2026-06-27,2026-02-06,Warm,Yes,Hybrid,Malmo,"Azure, ETL, Excel, GCP, Kubernetes, Looker, React, SQL, Tableau",5
+C4789277,Sofia Karlsson,R002,2026-04-08,2026-02-08,Neutral,Maybe,Hybrid,Gothenburg,"CI CD, GCP, Kubernetes, PostgreSQL, Power BI, REST APIs, React, Snowflake, Tableau, Terraform",8
+C0844326,Emma Nilsson,R005,2026-04-22,2026-01-20,Warm,No,On site,Remote,"AWS, Airflow, Kubernetes, Node, Python, Terraform",4
+C9620555,Sofia Johansson,R002,2026-06-20,2026-02-06,Neutral,No,Remote,Stockholm,"Excel, GCP, Linux, Looker, Pandas, Python, REST APIs, Terraform",8
+C2357703,Morgan Svensson,R001,2026-04-30,2026-02-10,Warm,No,Hybrid,Gothenburg,"Docker, ETL, Kubernetes, Pandas, Snowflake, dbt",0
+C0052955,Taylor Johansson,R005,2026-03-12,2026-01-12,Neutral,Yes,Remote,Stockholm,"AWS, FastAPI, Looker, Pandas, PostgreSQL, React, Spark, Terraform",4
+C5688518,Maja Johansson,R004,2026-03-11,2026-01-07,Warm,No,On site,Stockholm,"Azure, Data Modeling, Docker, Node, Spark, Terraform, Testing, dbt",0
+C1327168,Skyler Larsson,R005,2026-05-11,2026-01-14,Cold,No,On site,Malmo,"FastAPI, GCP, Python, Snowflake, Spark, Terraform",8
+C9557446,Taylor Johansson,R001,2026-04-25,2025-12-18,Neutral,No,Remote,Uppsala,"ETL, GCP, REST APIs, React, Terraform",7
+C0485144,Jamie Nilsson,R001,2026-03-23,2026-02-06,Warm,Yes,On site,Stockholm,"Airflow, CI CD, ETL, FastAPI, Kubernetes, Pandas, Power BI, REST APIs",5
+C7230238,Drew Karlsson,R006,2026-05-09,2026-02-11,Neutral,Yes,Remote,Malmo,"Airflow, Azure, Docker, GCP, Linux, REST APIs, React, Snowflake, Tableau",2
+C6796147,Drew Eriksson,R003,2026-03-30,2026-02-10,Neutral,Yes,Remote,Remote,"AWS, Airflow, Azure, CI CD, Data Modeling, Excel, PostgreSQL, Power BI, Tableau",0
+C3680459,Morgan Karlsson,R004,2026-06-24,2025-11-27,Neutral,Yes,On site,Malmo,"Azure, ETL, Linux, Pandas, PostgreSQL, Spark, Testing",3
+C9422439,Taylor Johansson,R003,2026-02-25,2026-01-19,Cold,Maybe,Remote,Remote,"Azure, Docker, GCP, Looker, PostgreSQL, React, Testing",3
+C7110870,Maja Gustafsson,R005,2026-04-17,2026-02-15,Neutral,No,Remote,Remote,"Airflow, Azure, FastAPI, GCP, Pandas, React, Snowflake, dbt",3
+C1219617,Taylor Larsson,R006,2026-06-05,2026-02-05,Cold,No,Hybrid,Uppsala,"Kubernetes, Node, SQL, Spark, Terraform, dbt",5
+C7127105,Casey Eriksson,R006,2026-05-09,2026-01-06,Warm,Maybe,Hybrid,Gothenburg,"AWS, Airflow, Data Modeling, Node, PostgreSQL, Power BI, React, Tableau, Terraform, Testing",4
+C3539030,Elin Larsson,R005,2026-03-28,2026-01-09,Cold,Yes,Remote,Malmo,"Docker, Excel, GCP, Python, REST APIs, React, Spark, Tableau, Terraform",5
+C3968169,Sofia Olsson,R001,2026-03-22,2025-11-28,Neutral,Maybe,On site,Gothenburg,"AWS, CI CD, Docker, SQL, Terraform",1
+C1794353,Noah Olsson,R005,2026-03-24,2026-01-03,Warm,Maybe,Remote,Stockholm,"Looker, Pandas, PostgreSQL, Power BI, Python, React",8
+C7896652,Morgan Johansson,R006,2026-06-29,2026-02-06,Neutral,Maybe,On site,Remote,"AWS, Excel, Linux, Power BI, Python",7
+C1602839,Taylor Andersson,R006,2026-05-17,2025-12-23,Cold,Maybe,Remote,Gothenburg,"AWS, Azure, CI CD, Data Modeling, FastAPI, GCP, Looker, PostgreSQL, Tableau, Terraform",5
+C7289451,Sam Andersson,R005,2026-04-01,2026-01-21,Cold,No,Remote,Remote,"Azure, ETL, Looker, Python, Tableau",4
+C9392161,Casey Larsson,R006,2026-06-25,2026-02-10,Cold,Yes,On site,Uppsala,"CI CD, GCP, Node, REST APIs, Spark, Terraform",3
+C9134493,Robin Svensson,R003,2026-05-24,2026-01-10,Warm,Maybe,Hybrid,Gothenburg,"Airflow, Azure, ETL, GCP, Python, REST APIs, Spark, Tableau",3
+C6915929,Noah Lind,R003,2026-06-15,2026-02-12,Warm,Maybe,Remote,Remote,"Azure, ETL, FastAPI, GCP, Node, PostgreSQL, React, Snowflake, Terraform, dbt",5
+C4393805,Sam Karlsson,R006,2026-05-02,2026-02-07,Warm,Yes,Hybrid,Gothenburg,"Azure, Excel, Node, Python, React, Snowflake",8
+C9426828,Robin Eriksson,R003,2026-03-11,2026-01-23,Cold,Yes,Hybrid,Malmo,"Airflow, Azure, FastAPI, Node, React",5
+C9971902,Liam Olsson,R001,2026-06-08,2026-01-24,Warm,Maybe,Hybrid,Gothenburg,"CI CD, Node, Power BI, Spark, Tableau, Testing",1
+C3947992,Jamie Lind,R004,2026-06-04,2026-01-10,Cold,Yes,Hybrid,Malmo,"AWS, Azure, CI CD, Docker, Node, Pandas, React",7
+C2073495,Casey Eriksson,R003,2026-07-04,2025-12-10,Warm,No,Remote,Malmo,"Airflow, Data Modeling, GCP, Node, Power BI",5
+C8584541,Morgan Johansson,R004,2026-06-09,2026-02-15,Warm,Maybe,On site,Remote,"Data Modeling, ETL, GCP, Kubernetes, Node, Python",6
+C5782895,Emma Karlsson,R004,2026-06-03,2026-01-16,Cold,Yes,Remote,Gothenburg,"Azure, CI CD, FastAPI, GCP, React, Snowflake, Spark, Tableau, Terraform",4
+C9837684,Noah Larsson,R001,2026-06-30,2026-02-13,Neutral,No,On site,Gothenburg,"Data Modeling, ETL, Excel, Kubernetes, Looker, SQL, Snowflake, Terraform",1
+C6386186,Emma Gustafsson,R004,2026-04-08,2025-12-20,Warm,No,Hybrid,Remote,"Azure, Data Modeling, ETL, FastAPI, Kubernetes, Looker, Python, SQL, Spark, dbt",7
+C0213754,Maja Nilsson,R003,2026-07-02,2026-02-04,Neutral,Maybe,Remote,Uppsala,"AWS, Pandas, PostgreSQL, Power BI, SQL, Snowflake",5
+C0407702,Jamie Andersson,R006,2026-07-03,2025-12-27,Cold,Maybe,On site,Remote,"CI CD, Docker, ETL, Excel, Kubernetes, Linux, Python, Snowflake, Spark, Tableau",5
+C0414388,Riley Nilsson,R005,2026-06-24,2026-01-03,Warm,Yes,On site,Stockholm,"Azure, CI CD, Looker, Pandas, Python, Testing",0
+C5014435,Noah Svensson,R001,2026-05-10,2026-02-05,Warm,Yes,On site,Uppsala,"AWS, Excel, GCP, Kubernetes, Linux, Pandas, REST APIs, Testing",4
+C9520128,Liam Lind,R006,2026-02-20,2025-12-11,Cold,No,Remote,Uppsala,"AWS, Airflow, CI CD, ETL, Excel, FastAPI, Pandas, Spark, Terraform, dbt",1
+C4144728,Maja Svensson,R002,2026-04-24,2026-02-07,Cold,No,Remote,Remote,"Data Modeling, FastAPI, Linux, Python, React, Terraform, dbt",8
+C9138295,Jordan Johansson,R006,2026-04-09,2026-02-09,Neutral,No,On site,Malmo,"Airflow, Excel, Looker, Python, SQL, Terraform, Testing, dbt",4
+C6023893,Liam Andersson,R005,2026-03-23,2026-01-24,Cold,Maybe,Remote,Uppsala,"CI CD, Data Modeling, Docker, ETL, GCP, Node, Pandas, Python, Spark",0
+C3792505,Robin Persson,R005,2026-05-22,2026-01-19,Neutral,Maybe,Remote,Gothenburg,"AWS, Airflow, Azure, CI CD, Linux, Node, PostgreSQL, Snowflake, Testing, dbt",6
+C7700905,Robin Nilsson,R002,2026-05-21,2026-02-11,Neutral,No,On site,Stockholm,"AWS, Excel, Looker, Pandas, Power BI, Python, Testing",2
+C5608971,Jamie Berg,R003,2026-07-04,2026-01-16,Warm,Maybe,On site,Remote,"Data Modeling, GCP, Kubernetes, Pandas, PostgreSQL, Spark, Terraform, dbt",6
+C1144456,Robin Persson,R005,2026-06-04,2026-01-11,Cold,Maybe,On site,Stockholm,"Azure, Docker, GCP, Looker, Node, Spark, Terraform, Testing",4
+C1445278,Morgan Andersson,R002,2026-06-26,2026-02-09,Neutral,Maybe,Remote,Uppsala,"AWS, Data Modeling, Excel, Linux, Node, PostgreSQL, Tableau",6
+C0986271,Sofia Gustafsson,R006,2026-03-07,2026-02-03,Warm,No,Remote,Stockholm,"AWS, CI CD, Node, PostgreSQL, REST APIs, Snowflake, Testing, dbt",0
+C6230650,Sam Berg,R001,2026-04-03,2025-12-12,Neutral,Maybe,On site,Stockholm,"FastAPI, React, Snowflake, Spark, Tableau, dbt",0
+C2015762,Cameron Nilsson,R002,2026-04-07,2026-02-11,Warm,No,On site,Malmo,"GCP, Kubernetes, Linux, Node, PostgreSQL, Python, SQL, Snowflake, Spark, dbt",6
+C3163366,Noah Olsson,R006,2026-06-30,2026-01-09,Neutral,Yes,Hybrid,Stockholm,"Azure, Docker, React, SQL, Spark",1
+C7863013,Riley Berg,R002,2026-05-18,2026-01-27,Neutral,No,Remote,Remote,"AWS, Airflow, Azure, Excel, FastAPI, Power BI, Terraform, dbt",2
+C3776125,Riley Johansson,R002,2026-04-25,2026-01-03,Cold,Yes,Hybrid,Malmo,"Azure, CI CD, ETL, Kubernetes, REST APIs, Terraform, dbt",0
+C7977962,Sofia Larsson,R002,2026-06-18,2026-02-13,Neutral,Maybe,On site,Malmo,"ETL, GCP, Node, React, SQL, Snowflake",0
+C7122646,Drew Lind,R004,2026-06-27,2026-01-10,Cold,No,Remote,Uppsala,"Airflow, Docker, ETL, GCP, Snowflake, Tableau",1
+C5809881,Emma Svensson,R004,2026-06-08,2025-12-30,Neutral,No,Remote,Stockholm,"Data Modeling, Docker, Looker, Power BI, REST APIs, Snowflake, Tableau, Terraform",6
+C3813473,Noah Svensson,R003,2026-03-11,2026-02-09,Neutral,Yes,Hybrid,Malmo,"AWS, Azure, CI CD, Data Modeling, Docker, ETL, GCP, PostgreSQL, React, Spark",7
+C7577545,Taylor Andersson,R003,2026-06-17,2026-01-22,Neutral,Yes,On site,Remote,"AWS, Docker, GCP, Kubernetes, PostgreSQL, REST APIs, Tableau",2
+C9885674,Robin Persson,R001,2026-02-18,2025-12-17,Warm,No,Remote,Stockholm,"CI CD, Data Modeling, Docker, ETL, Excel, GCP, Pandas, PostgreSQL, Power BI",4
+C6099836,Casey Andersson,R006,2026-03-10,2025-12-30,Warm,No,On site,Malmo,"AWS, Excel, Pandas, PostgreSQL, Snowflake, Spark",2
+C5042619,Cameron Karlsson,R006,2026-06-16,2026-01-17,Cold,Yes,Remote,Remote,"Airflow, Azure, Data Modeling, Docker, Kubernetes, Node, Python, dbt",4
+C2393541,Maja Nilsson,R006,2026-05-24,2026-02-06,Cold,Yes,Hybrid,Stockholm,"Azure, Excel, FastAPI, Looker, Power BI, SQL",6
+C1113372,Quinn Johansson,R001,2026-06-15,2026-01-07,Neutral,Yes,On site,Uppsala,"AWS, Airflow, CI CD, FastAPI, Looker, Node, PostgreSQL, Python, SQL, Tableau",8
+C8180016,Elin Berg,R004,2026-04-04,2026-02-13,Cold,No,On site,Uppsala,"Azure, FastAPI, Kubernetes, Linux, Node, Pandas, Power BI, Python, REST APIs, Terraform",6
+C9541765,Cameron Larsson,R004,2026-06-17,2026-01-12,Neutral,Maybe,Hybrid,Remote,"Airflow, CI CD, ETL, Python, Snowflake, Spark",4
+C3011682,Sofia Persson,R004,2026-06-10,2026-02-07,Cold,Maybe,Hybrid,Stockholm,"Airflow, Azure, CI CD, FastAPI, Looker, React, Terraform, dbt",0
+C6289768,Quinn Gustafsson,R005,2026-07-04,2026-01-15,Warm,Yes,Remote,Malmo,"Azure, CI CD, Docker, ETL, Node, Pandas, PostgreSQL, SQL, dbt",4
+C5969292,Jordan Lind,R003,2026-04-21,2026-01-14,Neutral,Yes,Remote,Malmo,"Airflow, ETL, FastAPI, GCP, Kubernetes, Power BI, Python, SQL, Snowflake",2
+C2080806,Jordan Nilsson,R002,2026-03-26,2025-12-13,Neutral,Maybe,Hybrid,Uppsala,"Airflow, Data Modeling, Excel, Kubernetes, Linux, Snowflake, Terraform",5
+C7494124,Emma Karlsson,R001,2026-02-24,2026-01-28,Neutral,Yes,Hybrid,Uppsala,"AWS, Airflow, Azure, ETL, Looker, Power BI, Spark",4
+C7488826,Drew Persson,R003,2026-04-10,2026-01-19,Cold,No,Remote,Gothenburg,"ETL, FastAPI, GCP, PostgreSQL, Power BI, REST APIs, React, Spark, dbt",4
+C0618507,Cameron Persson,R001,2026-03-06,2026-01-15,Warm,Yes,On site,Gothenburg,"Azure, FastAPI, Kubernetes, Linux, Tableau, dbt",5
+C2573737,Liam Persson,R004,2026-06-07,2026-02-07,Cold,Maybe,Hybrid,Gothenburg,"AWS, Excel, Linux, Node, Python, React, Terraform",3
+C4764504,Jamie Olsson,R001,2026-04-07,2026-02-09,Warm,No,On site,Remote,"Data Modeling, ETL, PostgreSQL, SQL, Spark, Tableau, dbt",0
+C1146371,Sofia Lind,R001,2026-06-14,2025-12-12,Neutral,Maybe,Remote,Stockholm,"CI CD, GCP, Kubernetes, Node, Power BI, SQL, Snowflake, Spark, Tableau, Testing",5
+C8289925,Casey Lind,R002,2026-03-25,2026-02-04,Neutral,No,On site,Gothenburg,"Airflow, Azure, SQL, Spark, dbt",1
+C8520708,Cameron Gustafsson,R003,2026-04-24,2026-02-01,Neutral,Yes,Remote,Gothenburg,"AWS, Airflow, Data Modeling, Excel, Pandas, React, Spark, Tableau",3
+C6112929,Maja Svensson,R002,2026-04-13,2026-02-16,Cold,Yes,On site,Uppsala,"Airflow, Data Modeling, Excel, FastAPI, Python, Snowflake",2
+C6694884,Elin Persson,R001,2026-06-07,2026-02-09,Warm,Maybe,On site,Uppsala,"Airflow, Azure, Docker, FastAPI, GCP, Node, Python, Terraform, Testing",2
+C3098715,Sofia Olsson,R004,2026-05-10,2025-12-25,Warm,No,On site,Gothenburg,"CI CD, Looker, Pandas, REST APIs, React, Tableau, Testing",4
+C0231250,Jordan Karlsson,R002,2026-02-25,2026-02-03,Neutral,Maybe,Remote,Remote,"AWS, Azure, Data Modeling, GCP, Looker, Python, REST APIs, Spark, Tableau, dbt",1
+C7983802,Emma Svensson,R001,2026-06-22,2026-02-11,Warm,No,Hybrid,Remote,"AWS, Data Modeling, FastAPI, Node, Pandas, PostgreSQL, Power BI, SQL, Spark, Tableau",8
+C9208238,Robin Johansson,R004,2026-04-26,2026-02-10,Neutral,No,Remote,Malmo,"Power BI, Python, REST APIs, SQL, Snowflake, Tableau, Terraform, Testing",5
+C3109588,Casey Lind,R005,2026-03-28,2026-02-03,Neutral,Yes,Hybrid,Stockholm,"AWS, Docker, GCP, Kubernetes, Node, PostgreSQL, SQL",5
+C8010788,Maja Olsson,R004,2026-03-18,2025-12-23,Neutral,No,Hybrid,Stockholm,"ETL, Excel, React, SQL, Snowflake, Testing",1
+C6717807,Jordan Olsson,R001,2026-04-18,2026-01-20,Cold,No,Hybrid,Uppsala,"AWS, CI CD, Kubernetes, Linux, Looker, REST APIs, React, Snowflake, Tableau, dbt",7
+C8032776,Drew Gustafsson,R004,2026-06-07,2025-12-20,Neutral,No,Remote,Gothenburg,"Data Modeling, Excel, FastAPI, Kubernetes, Linux, Python, React, SQL, dbt",5
+C0457085,Morgan Andersson,R005,2026-06-10,2026-02-04,Cold,Yes,Hybrid,Remote,"AWS, Data Modeling, Looker, Pandas, PostgreSQL, Python, Snowflake, Terraform",3
+C0524331,Skyler Johansson,R006,2026-04-25,2026-02-12,Warm,Yes,On site,Remote,"AWS, Azure, FastAPI, Node, React, Spark, Terraform",6
+C4892250,Avery Karlsson,R003,2026-05-04,2026-01-04,Neutral,Maybe,On site,Gothenburg,"Airflow, Azure, Kubernetes, Linux, Pandas, PostgreSQL, Python, Tableau, dbt",0
+C9762613,Liam Svensson,R002,2026-05-08,2026-01-03,Warm,No,On site,Malmo,"AWS, CI CD, Data Modeling, ETL, Pandas, REST APIs, Tableau",1
+C7274582,Maja Johansson,R002,2026-06-01,2026-02-10,Cold,No,Hybrid,Uppsala,"Data Modeling, Node, Pandas, Testing, dbt",7
+C5165838,Morgan Eriksson,R006,2026-05-21,2026-02-01,Warm,Maybe,Remote,Uppsala,"Airflow, Docker, ETL, Node, REST APIs, Spark, Testing, dbt",1
+C8375440,Robin Persson,R003,2026-06-02,2025-12-26,Neutral,No,On site,Gothenburg,"Excel, Looker, REST APIs, Snowflake, dbt",7
+C5436481,Drew Johansson,R003,2026-05-30,2026-01-15,Warm,Maybe,Hybrid,Stockholm,"Airflow, Docker, FastAPI, REST APIs, Tableau, Terraform, dbt",7
+C5618744,Riley Gustafsson,R004,2026-06-20,2026-02-11,Cold,Maybe,Hybrid,Stockholm,"Airflow, CI CD, Excel, GCP, Kubernetes, Node, Power BI, Terraform, Testing",0
+C2996062,Riley Karlsson,R003,2026-03-10,2026-02-14,Neutral,Yes,Hybrid,Uppsala,"Airflow, Azure, CI CD, Docker, ETL, PostgreSQL, REST APIs, React, dbt",8
+C4545464,Riley Andersson,R005,2026-05-29,2026-02-10,Cold,Maybe,Remote,Gothenburg,"AWS, Airflow, Azure, Excel, Linux, Power BI, React, Testing",8
+C5451816,Maja Eriksson,R003,2026-03-19,2026-01-14,Neutral,Maybe,On site,Gothenburg,"CI CD, Excel, Linux, Node, Power BI, React",5
+C4140894,Cameron Nilsson,R005,2026-06-03,2026-01-06,Cold,No,On site,Stockholm,"Airflow, Azure, FastAPI, Kubernetes, REST APIs, Snowflake",0
+C5432211,Avery Svensson,R002,2026-06-20,2025-12-21,Warm,Maybe,Hybrid,Uppsala,"Airflow, CI CD, ETL, Node, Pandas, PostgreSQL, SQL, Snowflake, Tableau, dbt",6
+C5166101,Emma Andersson,R002,2026-04-16,2026-02-02,Neutral,Yes,On site,Uppsala,"Airflow, Pandas, PostgreSQL, Power BI, REST APIs, Terraform",1
+C2446151,Cameron Andersson,R003,2026-03-30,2026-02-11,Neutral,Maybe,On site,Malmo,"Airflow, Azure, GCP, Linux, Node, Pandas, PostgreSQL, Terraform, dbt",2
+C1788164,Jamie Larsson,R006,2026-04-05,2026-02-12,Neutral,No,Remote,Uppsala,"CI CD, Excel, Linux, React, Spark, Terraform",7
+C7761145,Drew Svensson,R006,2026-04-13,2026-01-31,Neutral,No,Hybrid,Uppsala,"Airflow, Excel, FastAPI, GCP, Node, Terraform",7
+C4738253,Riley Persson,R001,2026-06-15,2026-01-20,Neutral,Maybe,Hybrid,Gothenburg,"Airflow, FastAPI, GCP, Kubernetes, Linux, SQL, Spark, Testing",0
+C8575774,Alex Svensson,R005,2026-03-09,2026-02-14,Cold,Maybe,On site,Malmo,"Azure, Linux, Node, Pandas, PostgreSQL, Power BI, Python, Snowflake, Spark, dbt",7
+C3592176,Jamie Nilsson,R005,2026-04-01,2026-01-02,Cold,Maybe,Remote,Remote,"AWS, CI CD, Docker, FastAPI, React, Snowflake, Terraform",3
+C6587547,Riley Nilsson,R004,2026-04-09,2026-01-08,Neutral,Maybe,Remote,Uppsala,"Airflow, Data Modeling, Excel, Linux, Looker, Power BI, Python, SQL",4
+C9724139,Sam Gustafsson,R003,2026-07-05,2026-02-07,Neutral,Yes,Hybrid,Remote,"Docker, Excel, Spark, Tableau, Testing",3
+C9593158,Skyler Olsson,R002,2026-03-20,2026-01-13,Cold,Yes,On site,Stockholm,"CI CD, PostgreSQL, REST APIs, SQL, Spark",8
+C0167922,Cameron Gustafsson,R001,2026-06-22,2026-02-09,Cold,Yes,Hybrid,Uppsala,"AWS, Linux, PostgreSQL, React, Spark, Tableau",2
+C4667032,Avery Svensson,R002,2026-06-21,2025-12-30,Neutral,No,Remote,Malmo,"Docker, Linux, SQL, Snowflake, Tableau, Terraform, Testing, dbt",0
+C3039896,Sofia Olsson,R002,2026-04-11,2026-02-07,Cold,No,On site,Stockholm,"Docker, FastAPI, Looker, Node, Pandas, PostgreSQL, Spark, Tableau",0
+C0773714,Avery Larsson,R002,2026-04-02,2026-02-03,Warm,Maybe,Remote,Remote,"Airflow, FastAPI, Kubernetes, PostgreSQL, Power BI, Python",3
+C6642392,Maja Larsson,R005,2026-05-07,2026-02-10,Warm,Yes,Remote,Uppsala,"Azure, Data Modeling, Excel, FastAPI, Kubernetes, Python, Snowflake, dbt",6
+C1682043,Sam Gustafsson,R002,2026-05-29,2026-02-11,Cold,Yes,Hybrid,Malmo,"ETL, Linux, Looker, Node, PostgreSQL, Spark, Tableau, Testing",3
+C5786922,Maja Lind,R006,2026-02-27,2025-12-20,Neutral,No,Hybrid,Stockholm,"CI CD, Excel, Looker, Pandas, Power BI",7
+C0475562,Riley Lind,R006,2026-03-19,2026-02-10,Cold,No,On site,Remote,"Azure, CI CD, GCP, Kubernetes, Looker, Node, Power BI, Python",0
+C0456302,Elin Nilsson,R001,2026-03-28,2026-01-16,Cold,Yes,Hybrid,Uppsala,"Airflow, Excel, Linux, Looker, Pandas, Snowflake",2
+C6572802,Jamie Berg,R004,2026-05-05,2025-12-29,Warm,Maybe,On site,Malmo,"Kubernetes, PostgreSQL, Python, REST APIs, Snowflake, Tableau",8
+C0561597,Elin Gustafsson,R001,2026-06-02,2026-01-24,Neutral,No,Hybrid,Gothenburg,"AWS, Azure, Kubernetes, Linux, Looker, Pandas, PostgreSQL, REST APIs, React, Terraform",6
+C7289608,Jordan Persson,R003,2026-03-17,2026-02-02,Warm,Yes,On site,Uppsala,"AWS, Azure, FastAPI, Looker, Pandas, Python, Snowflake, Terraform, Testing",6
+C7272697,Emma Svensson,R001,2026-06-02,2026-01-17,Cold,Maybe,Hybrid,Uppsala,"Data Modeling, ETL, Excel, GCP, Linux, Pandas, REST APIs, React, dbt",6
+C0123878,Alex Berg,R006,2026-06-14,2026-02-15,Warm,Yes,Hybrid,Stockholm,"Azure, CI CD, Data Modeling, ETL, GCP, Node, Pandas, Tableau, Terraform",1
+C4324245,Sam Lind,R001,2026-05-18,2026-02-03,Warm,Yes,Hybrid,Uppsala,"AWS, ETL, Linux, Looker, SQL, Snowflake",2
+C4629569,Maja Nilsson,R002,2026-06-12,2026-02-03,Warm,Maybe,On site,Remote,"AWS, Docker, Node, Power BI, Snowflake, Spark, Terraform",0
+C4829536,Emma Gustafsson,R005,2026-03-21,2026-02-06,Neutral,Maybe,Remote,Stockholm,"AWS, Airflow, Azure, Data Modeling, FastAPI, GCP, Linux, Python, REST APIs, React",7
+C6719485,Elin Gustafsson,R002,2026-03-02,2026-02-10,Warm,Yes,Remote,Gothenburg,"Azure, ETL, Excel, Linux, Looker, Node, PostgreSQL, REST APIs, Snowflake, dbt",5
+C9815965,Cameron Larsson,R006,2026-03-18,2026-02-13,Neutral,No,Hybrid,Uppsala,"AWS, CI CD, Data Modeling, Docker, GCP, Looker, REST APIs, Snowflake, Terraform, dbt",1
+C0798442,Liam Olsson,R004,2026-06-02,2026-01-02,Neutral,Yes,Remote,Remote,"AWS, FastAPI, GCP, PostgreSQL, SQL, Snowflake, Tableau",6
+C2240388,Taylor Andersson,R003,2026-05-28,2026-02-06,Neutral,Maybe,Hybrid,Gothenburg,"Airflow, Kubernetes, Linux, Looker, Node, Pandas, Python, REST APIs, SQL, Spark",4
+C2362866,Emma Karlsson,R005,2026-02-25,2026-02-11,Cold,Maybe,Remote,Malmo,"Airflow, Azure, CI CD, ETL, Pandas, Python, Snowflake, Tableau, Terraform",1
+C5599320,Quinn Persson,R001,2026-06-10,2026-01-24,Neutral,Yes,On site,Uppsala,"Airflow, CI CD, Excel, FastAPI, Pandas, React, Snowflake",3
+C7600197,Noah Lind,R004,2026-04-07,2025-12-04,Warm,Maybe,Hybrid,Uppsala,"FastAPI, Node, Pandas, Terraform, Testing, dbt",0
+C7266069,Liam Persson,R003,2026-05-25,2026-02-09,Cold,Maybe,On site,Stockholm,"Airflow, CI CD, Data Modeling, Power BI, SQL, Spark, Tableau, dbt",4
+C8896834,Alex Olsson,R004,2026-06-25,2026-02-04,Neutral,No,Hybrid,Remote,"Airflow, Azure, CI CD, Power BI, Python, Spark",3
+C2806062,Jamie Persson,R006,2026-03-18,2026-02-07,Warm,No,Hybrid,Uppsala,"ETL, Kubernetes, Linux, PostgreSQL, Tableau, Terraform",5
+C2355485,Taylor Eriksson,R003,2026-02-28,2026-02-08,Cold,Yes,Remote,Gothenburg,"Azure, Data Modeling, Docker, Excel, Kubernetes, PostgreSQL, Python, Terraform, Testing",8
+C1304645,Drew Andersson,R005,2026-05-19,2026-02-03,Neutral,Yes,On site,Stockholm,"Data Modeling, Excel, Python, Snowflake, Spark, Tableau",8
+C7793043,Riley Nilsson,R002,2026-06-15,2026-02-04,Cold,Yes,Remote,Remote,"ETL, Kubernetes, Linux, Looker, Testing",0
+C3972693,Taylor Johansson,R001,2026-04-28,2026-01-08,Warm,No,Hybrid,Gothenburg,"Airflow, FastAPI, Kubernetes, Linux, PostgreSQL, Terraform, Testing",0
+C7241646,Liam Eriksson,R005,2026-05-17,2026-02-08,Warm,No,Remote,Gothenburg,"Airflow, CI CD, ETL, GCP, Kubernetes, SQL, Tableau, Testing",6
+C6475745,Skyler Karlsson,R002,2026-04-18,2026-01-21,Neutral,No,On site,Uppsala,"ETL, Power BI, REST APIs, React, dbt",4
+C3556983,Robin Olsson,R006,2026-05-26,2025-12-16,Warm,No,Hybrid,Remote,"CI CD, Data Modeling, Docker, GCP, PostgreSQL, Python, SQL",3
+C3240694,Emma Karlsson,R005,2026-04-13,2025-12-21,Neutral,Maybe,Remote,Stockholm,"Azure, Data Modeling, ETL, Excel, Linux, Pandas, Tableau",4
+C9992375,Alex Olsson,R005,2026-03-14,2025-12-31,Neutral,No,Remote,Stockholm,"Azure, Docker, Excel, Kubernetes, Looker, Power BI, Python, REST APIs, Snowflake, Testing",8
+C8746351,Jamie Lind,R003,2026-05-26,2026-01-03,Warm,Maybe,On site,Uppsala,"Airflow, Azure, Data Modeling, ETL, PostgreSQL, Python, SQL, Tableau, Testing",5
+C8065418,Robin Persson,R003,2026-02-26,2026-02-13,Neutral,Maybe,Hybrid,Stockholm,"CI CD, Data Modeling, ETL, Looker, React, Snowflake, Spark",8
+C9067078,Noah Svensson,R001,2026-05-11,2026-01-08,Warm,Maybe,Remote,Stockholm,"AWS, Azure, CI CD, Docker, Linux, Python, REST APIs, Snowflake, Spark, Terraform",3
+C9703010,Noah Berg,R003,2026-03-27,2026-02-05,Neutral,No,Remote,Remote,"AWS, ETL, GCP, Linux, Looker, PostgreSQL, Python",1
+C1212663,Jordan Persson,R002,2026-05-06,2026-02-11,Neutral,Yes,Hybrid,Malmo,"AWS, CI CD, Data Modeling, Kubernetes, Linux, Power BI, Testing, dbt",5
+C4975183,Elin Eriksson,R001,2026-05-14,2026-02-07,Neutral,Maybe,On site,Uppsala,"Azure, CI CD, FastAPI, Spark, Terraform",6
+C6208148,Drew Lind,R002,2026-05-20,2026-02-08,Neutral,Yes,On site,Gothenburg,"Airflow, Azure, Excel, Python, Spark",0
+C4345819,Skyler Gustafsson,R001,2026-05-21,2026-02-08,Neutral,Maybe,Remote,Gothenburg,"ETL, Kubernetes, PostgreSQL, SQL, Tableau, Terraform, dbt",5
+C3232121,Taylor Lind,R002,2026-04-13,2026-02-08,Cold,Maybe,On site,Stockholm,"FastAPI, Kubernetes, PostgreSQL, Python, dbt",8
+C3260863,Jordan Persson,R002,2026-02-16,2026-01-20,Cold,No,On site,Malmo,"Azure, Docker, Excel, FastAPI, Node",3
+C1932716,Cameron Larsson,R003,2026-07-02,2026-02-14,Neutral,Maybe,Hybrid,Stockholm,"Airflow, Azure, Excel, GCP, Looker, Power BI, REST APIs, Spark",6
+C9580114,Casey Johansson,R006,2026-03-22,2025-11-30,Warm,No,On site,Stockholm,"AWS, ETL, Linux, PostgreSQL, Spark",4
+C9288736,Sam Persson,R001,2026-04-16,2026-01-16,Cold,Maybe,Remote,Uppsala,"Airflow, Azure, FastAPI, PostgreSQL, Python, Terraform, Testing",2
+C2354670,Sofia Larsson,R004,2026-03-13,2026-01-19,Cold,Yes,Hybrid,Gothenburg,"Airflow, Azure, ETL, Excel, Python, Snowflake, Spark, Terraform, dbt",6
+C7992071,Cameron Eriksson,R005,2026-03-18,2026-01-31,Cold,Yes,Remote,Stockholm,"Airflow, Docker, ETL, FastAPI, Snowflake",4
+C3890674,Jamie Berg,R005,2026-04-23,2026-02-10,Cold,No,Remote,Remote,"AWS, CI CD, Excel, GCP, Linux, PostgreSQL, Power BI",5
+C4080347,Maja Lind,R002,2026-04-15,2025-12-24,Cold,Maybe,Hybrid,Remote,"AWS, Data Modeling, Kubernetes, Linux, Power BI, Python, Tableau, Terraform, Testing",5
+C2309367,Noah Andersson,R005,2026-05-01,2026-02-11,Cold,No,On site,Uppsala,"Excel, Kubernetes, Linux, Looker, Power BI, Python, React, Spark",7
+C5562149,Casey Berg,R006,2026-02-18,2026-01-28,Neutral,Yes,Hybrid,Gothenburg,"CI CD, ETL, Excel, GCP, Python, SQL, Spark, Terraform",6
+C9947293,Emma Andersson,R005,2026-03-04,2025-12-04,Cold,Yes,On site,Uppsala,"AWS, Data Modeling, Excel, Kubernetes, Looker, Pandas, PostgreSQL, Python",1
+C8411056,Jordan Berg,R005,2026-02-17,2026-02-09,Warm,No,Hybrid,Gothenburg,"AWS, CI CD, FastAPI, Linux, Tableau",2
+C0129325,Robin Olsson,R002,2026-05-16,2026-02-04,Neutral,No,Hybrid,Remote,"AWS, CI CD, Excel, Looker, React, SQL, Testing",1
+C2449623,Taylor Lind,R006,2026-05-14,2026-01-29,Neutral,Yes,Remote,Stockholm,"Azure, CI CD, Excel, GCP, Kubernetes, Looker, React, Tableau, dbt",5
+C5722373,Jamie Olsson,R002,2026-04-08,2026-02-13,Neutral,Maybe,On site,Uppsala,"CI CD, Docker, GCP, Looker, Node",0
+C5413356,Taylor Olsson,R002,2026-06-29,2025-11-30,Cold,No,On site,Uppsala,"Data Modeling, Docker, FastAPI, Linux, Snowflake, Tableau, Testing",0
+C7711377,Maja Olsson,R003,2026-03-06,2026-02-10,Neutral,Maybe,Remote,Remote,"AWS, CI CD, Looker, Python, Terraform",7
+C4906559,Elin Gustafsson,R003,2026-05-21,2026-01-28,Neutral,Maybe,On site,Stockholm,"AWS, CI CD, ETL, GCP, Linux, Pandas, REST APIs, React, SQL, dbt",2
+C1674609,Taylor Johansson,R001,2026-06-14,2026-01-16,Neutral,Yes,Hybrid,Gothenburg,"Airflow, Data Modeling, Docker, Excel, Kubernetes, Pandas, PostgreSQL, Snowflake, Terraform, dbt",7
+C3564192,Robin Gustafsson,R005,2026-06-22,2026-02-13,Warm,No,On site,Malmo,"AWS, Airflow, CI CD, Looker, Node, Python, REST APIs",1
+C3203189,Quinn Eriksson,R006,2026-06-02,2025-12-24,Warm,No,On site,Gothenburg,"Airflow, Excel, PostgreSQL, Python, REST APIs, SQL",2
+C8445833,Quinn Eriksson,R006,2026-05-29,2025-12-30,Warm,Maybe,Remote,Uppsala,"AWS, Data Modeling, React, SQL, dbt",3
+C5504316,Emma Berg,R001,2026-02-21,2026-02-08,Neutral,Yes,Remote,Remote,"Airflow, Docker, GCP, Linux, Looker, Pandas, PostgreSQL, Python, SQL, Testing",5
+C8040144,Skyler Lind,R005,2026-05-11,2026-02-13,Cold,No,On site,Malmo,"CI CD, Excel, GCP, Python, Spark",7
+C6765436,Liam Svensson,R006,2026-06-28,2026-02-04,Neutral,Maybe,On site,Remote,"Airflow, CI CD, Kubernetes, Power BI, React, dbt",8
+C0262189,Cameron Eriksson,R001,2026-06-23,2026-01-24,Warm,Maybe,Hybrid,Gothenburg,"AWS, CI CD, FastAPI, GCP, Power BI, SQL",7
+C7886242,Cameron Eriksson,R003,2026-07-04,2026-01-27,Neutral,Yes,Remote,Stockholm,"Azure, ETL, Excel, GCP, Node, Pandas, SQL, Spark, Tableau, Terraform",1
+C0619273,Liam Persson,R005,2026-03-07,2026-01-26,Cold,Yes,Hybrid,Stockholm,"AWS, Airflow, Azure, Data Modeling, Linux, Pandas, Tableau, Testing",5
+C2628928,Quinn Persson,R002,2026-04-08,2026-01-15,Neutral,Maybe,Remote,Stockholm,"CI CD, Docker, Kubernetes, Linux, Pandas, Snowflake, Terraform",4
+C3107486,Liam Berg,R004,2026-06-19,2026-02-12,Neutral,Maybe,Remote,Stockholm,"Docker, FastAPI, Power BI, REST APIs, Testing",6
+C5808183,Liam Karlsson,R005,2026-02-18,2026-02-09,Warm,Yes,On site,Uppsala,"Airflow, ETL, Pandas, Power BI, Snowflake, Spark, Tableau",8
+C2861011,Jordan Berg,R001,2026-02-16,2026-01-03,Cold,Maybe,Hybrid,Remote,"AWS, Airflow, Data Modeling, ETL, Pandas, PostgreSQL, Snowflake, Spark",0
+C4649341,Alex Gustafsson,R005,2026-05-02,2026-02-08,Neutral,No,Remote,Malmo,"Airflow, CI CD, Data Modeling, GCP, Node, REST APIs, Snowflake, Tableau, Terraform",0
+C8279409,Cameron Berg,R004,2026-06-12,2026-01-26,Warm,No,Hybrid,Gothenburg,"AWS, ETL, Excel, GCP, Kubernetes",4
+C3725631,Maja Andersson,R001,2026-03-19,2026-01-08,Neutral,Yes,Remote,Malmo,"Azure, PostgreSQL, SQL, Snowflake, Testing",2
+C2238757,Maja Eriksson,R001,2026-05-02,2026-01-28,Warm,Yes,Hybrid,Stockholm,"Airflow, GCP, Node, Power BI, React, Snowflake",8
+C9844830,Avery Nilsson,R005,2026-06-07,2026-02-10,Warm,No,Hybrid,Remote,"Azure, CI CD, Docker, GCP, Python, React, Tableau",5
+C4321534,Alex Persson,R004,2026-05-29,2025-12-26,Warm,No,Remote,Malmo,"Excel, FastAPI, Node, Tableau, Terraform",6
+C7293516,Liam Gustafsson,R005,2026-04-22,2025-12-25,Neutral,No,Remote,Gothenburg,"AWS, Excel, Looker, Python, REST APIs, Tableau",0
+C1927995,Cameron Eriksson,R003,2026-04-08,2026-02-08,Warm,No,Hybrid,Stockholm,"Airflow, ETL, Linux, Node, REST APIs, React, SQL, Spark",6
+C6691874,Sam Olsson,R005,2026-02-28,2026-02-07,Neutral,Yes,Hybrid,Stockholm,"Excel, Node, Power BI, Tableau, Testing",7
+C6765838,Sofia Olsson,R006,2026-05-15,2026-02-14,Neutral,No,Hybrid,Uppsala,"AWS, CI CD, ETL, Excel, Kubernetes, Linux, Looker, Python, REST APIs, Snowflake",6
+C0401477,Taylor Andersson,R001,2026-06-25,2026-01-18,Warm,Yes,Hybrid,Malmo,"AWS, CI CD, ETL, Excel, Kubernetes, Looker, Pandas, Power BI, Spark",8
+C6567818,Maja Nilsson,R002,2026-03-25,2026-02-09,Cold,Maybe,Remote,Malmo,"Data Modeling, GCP, Kubernetes, Pandas, REST APIs, SQL, Snowflake, Spark, Tableau, Terraform",2
+C6552718,Alex Larsson,R003,2026-03-04,2026-02-15,Cold,Yes,Hybrid,Malmo,"Data Modeling, Docker, ETL, Kubernetes, Linux, SQL, Terraform, dbt",3
+C4656366,Jordan Olsson,R005,2026-05-24,2025-12-18,Warm,No,Hybrid,Remote,"Azure, Data Modeling, Docker, React, Spark, Tableau, Terraform, dbt",0
+C2866033,Alex Larsson,R001,2026-05-26,2026-01-09,Cold,Yes,Remote,Gothenburg,"CI CD, Docker, GCP, Node, Terraform, dbt",0
+C7488771,Quinn Johansson,R002,2026-04-05,2026-02-05,Neutral,No,On site,Stockholm,"ETL, Python, SQL, Tableau, Terraform",3
+C5127712,Casey Gustafsson,R005,2026-03-16,2026-02-01,Cold,Yes,On site,Malmo,"AWS, Data Modeling, ETL, Excel, GCP, Kubernetes, SQL, Snowflake, Spark, Terraform",8
+C8241898,Quinn Gustafsson,R004,2026-05-01,2025-12-02,Neutral,No,Hybrid,Remote,"ETL, FastAPI, GCP, REST APIs, Spark",7
+C9795974,Emma Olsson,R004,2026-04-01,2026-02-01,Neutral,No,On site,Malmo,"AWS, Airflow, Linux, PostgreSQL, Python",2
+C5129713,Liam Karlsson,R001,2026-03-18,2026-02-10,Warm,No,Hybrid,Uppsala,"Data Modeling, ETL, Excel, Linux, Pandas, PostgreSQL, Power BI, Snowflake, Tableau, dbt",2
+C4503655,Morgan Persson,R002,2026-03-24,2026-02-02,Neutral,Maybe,On site,Gothenburg,"Excel, GCP, Looker, Pandas, Python, REST APIs, SQL, Snowflake, Tableau, Terraform",8
+C1364125,Maja Larsson,R001,2026-03-27,2026-02-09,Neutral,Maybe,Remote,Gothenburg,"AWS, Docker, Excel, Node, Power BI, Python, Spark, Testing, dbt",7
+C9521157,Skyler Persson,R004,2026-05-29,2026-02-05,Neutral,Maybe,On site,Gothenburg,"Airflow, ETL, Looker, Node, Python, REST APIs, Tableau, Testing, dbt",2
+C5637818,Noah Olsson,R006,2026-05-23,2026-01-29,Neutral,No,Remote,Remote,"Pandas, Python, REST APIs, SQL, Tableau, Testing",1
+C1605647,Emma Eriksson,R006,2026-04-08,2026-01-28,Neutral,Maybe,On site,Gothenburg,"AWS, Airflow, GCP, Looker, Python, React, Testing, dbt",2
+C6801317,Morgan Gustafsson,R005,2026-06-13,2026-02-04,Cold,No,On site,Uppsala,"CI CD, Data Modeling, Linux, React, Spark, Tableau, dbt",5
+C8835259,Taylor Svensson,R006,2026-02-24,2026-01-16,Warm,Maybe,On site,Malmo,"AWS, Node, Pandas, Power BI, Tableau",3
+C6985577,Avery Eriksson,R001,2026-05-19,2025-12-17,Neutral,No,Hybrid,Malmo,"Azure, CI CD, Data Modeling, Docker, PostgreSQL, Power BI, Python, React, Tableau, Testing",7
+C2193390,Cameron Olsson,R003,2026-03-08,2026-02-08,Cold,Yes,Hybrid,Remote,"Azure, GCP, Looker, Power BI, Python, REST APIs, React, Snowflake, Spark, dbt",4
+C4961833,Alex Johansson,R006,2026-02-20,2026-02-16,Cold,Maybe,On site,Uppsala,"AWS, ETL, GCP, Kubernetes, Pandas, PostgreSQL, Power BI, Spark",3
+C5345708,Alex Johansson,R004,2026-03-28,2026-02-08,Cold,Yes,Remote,Remote,"AWS, Excel, Linux, Pandas, PostgreSQL, Power BI, REST APIs, Spark, Testing",3
+C3597403,Riley Karlsson,R003,2026-03-04,2026-02-12,Cold,Yes,Hybrid,Remote,"AWS, Airflow, Azure, Excel, Power BI, Terraform, Testing, dbt",7
+C1406963,Jamie Larsson,R001,2026-05-27,2026-01-01,Neutral,No,On site,Stockholm,"AWS, CI CD, Docker, Excel, PostgreSQL, Power BI, React, Spark, Testing",7
+C3323546,Skyler Persson,R001,2026-04-20,2025-12-22,Cold,Yes,Hybrid,Malmo,"AWS, Azure, CI CD, Docker, ETL, Kubernetes, Linux, SQL, Testing",3
+C0637324,Taylor Nilsson,R004,2026-02-22,2025-12-31,Warm,Yes,Hybrid,Remote,"Data Modeling, ETL, Excel, PostgreSQL, React",5
+C6494314,Drew Andersson,R003,2026-05-26,2025-12-17,Neutral,Yes,Remote,Malmo,"Data Modeling, Kubernetes, Looker, PostgreSQL, React, dbt",1
+C6322204,Sofia Karlsson,R001,2026-06-16,2025-12-29,Cold,No,On site,Malmo,"Docker, ETL, Pandas, PostgreSQL, Snowflake, Spark, Testing",1
+C5689092,Skyler Berg,R003,2026-04-27,2026-02-03,Neutral,Yes,Remote,Uppsala,"Azure, GCP, Looker, PostgreSQL, Python, REST APIs, Tableau, Terraform, dbt",8
+C0701135,Maja Berg,R005,2026-04-01,2025-12-28,Cold,Maybe,On site,Uppsala,"Data Modeling, GCP, Node, Python, Snowflake, Tableau, Terraform, Testing",4
+C8222137,Riley Persson,R003,2026-04-07,2026-01-15,Neutral,Yes,Remote,Uppsala,"Azure, Docker, Excel, FastAPI, Kubernetes, Linux, Power BI",2
+C4017187,Noah Olsson,R006,2026-05-14,2026-02-01,Cold,Maybe,Remote,Gothenburg,"Docker, FastAPI, GCP, Kubernetes, PostgreSQL, Power BI, Python, React",2
+C2397688,Elin Johansson,R002,2026-03-18,2026-01-09,Cold,Maybe,On site,Remote,"AWS, ETL, GCP, PostgreSQL, React, Terraform, Testing, dbt",1
+C3255961,Robin Karlsson,R004,2026-03-03,2026-01-07,Neutral,Yes,Hybrid,Uppsala,"Data Modeling, Kubernetes, Pandas, Python, REST APIs, Terraform, Testing",5
+C6672900,Sofia Johansson,R003,2026-04-07,2026-02-07,Warm,Yes,Remote,Uppsala,"AWS, Airflow, Pandas, Python, Tableau, dbt",7
+C7280590,Liam Johansson,R003,2026-04-29,2026-01-31,Warm,No,Hybrid,Remote,"Airflow, Azure, FastAPI, GCP, Node, Python, React, SQL, Snowflake, Spark",8
+C1202801,Robin Persson,R003,2026-04-03,2026-01-22,Cold,No,Remote,Uppsala,"Data Modeling, Excel, Kubernetes, Linux, Node, Python, Spark, Tableau, Terraform",5
+C5896584,Morgan Olsson,R005,2026-02-27,2026-02-12,Cold,No,Hybrid,Stockholm,"Airflow, CI CD, Data Modeling, Docker, Linux, Node, Python, REST APIs, Snowflake, Testing",7
+C4822856,Drew Eriksson,R005,2026-02-18,2026-01-19,Warm,No,Hybrid,Malmo,"AWS, Airflow, Azure, CI CD, React, SQL, Testing",1
+C9810896,Elin Persson,R003,2026-05-24,2026-01-24,Cold,No,Remote,Remote,"Data Modeling, Excel, Kubernetes, Linux, PostgreSQL, REST APIs, SQL, dbt",4
+C6276692,Drew Persson,R004,2026-04-01,2025-12-29,Cold,No,Hybrid,Uppsala,"AWS, Azure, ETL, REST APIs, SQL",8
+C9921907,Taylor Johansson,R005,2026-05-06,2026-02-06,Neutral,Maybe,Remote,Gothenburg,"Azure, Data Modeling, ETL, Excel, Linux, Pandas, Tableau, Terraform, dbt",5
+C9751337,Sam Johansson,R003,2026-06-28,2026-02-03,Cold,Maybe,Hybrid,Uppsala,"AWS, Data Modeling, GCP, Looker, Power BI, Python, React, Tableau",2
+C9018596,Alex Larsson,R005,2026-05-30,2026-02-04,Neutral,No,On site,Uppsala,"Data Modeling, Docker, ETL, Excel, FastAPI, GCP, Kubernetes, Python, Tableau, Terraform",1
+C9604479,Alex Olsson,R001,2026-04-02,2026-01-02,Warm,No,On site,Remote,"Data Modeling, Looker, Pandas, Power BI, Testing",2
+C3015277,Taylor Johansson,R005,2026-06-10,2026-02-04,Warm,Yes,On site,Uppsala,"Airflow, CI CD, ETL, FastAPI, Linux, Python",7
+C7281739,Emma Svensson,R004,2026-05-04,2026-01-20,Cold,Maybe,Hybrid,Stockholm,"AWS, Azure, REST APIs, React, Snowflake",5
+C4995584,Quinn Gustafsson,R004,2026-03-01,2026-02-08,Warm,Yes,Hybrid,Malmo,"Airflow, CI CD, Docker, Kubernetes, Node, Pandas, SQL",3
+C7439528,Alex Karlsson,R006,2026-05-08,2026-01-21,Cold,No,On site,Malmo,"ETL, Looker, Pandas, Power BI, React",6
+C0551909,Elin Svensson,R006,2026-03-05,2026-02-07,Neutral,Maybe,Remote,Uppsala,"Data Modeling, ETL, FastAPI, Testing, dbt",3
+C7066821,Drew Andersson,R003,2026-04-19,2026-02-12,Cold,Maybe,On site,Gothenburg,"AWS, Azure, Linux, Power BI, REST APIs, Snowflake, Spark, Tableau, Testing, dbt",0
+C0434248,Noah Nilsson,R001,2026-02-25,2026-01-31,Warm,No,On site,Uppsala,"CI CD, Docker, FastAPI, GCP, Looker, Python, REST APIs, SQL, Spark",4
+C8405522,Liam Karlsson,R006,2026-05-28,2026-01-03,Neutral,Maybe,On site,Remote,"CI CD, Looker, Power BI, Tableau, Testing",2
+C5159507,Jamie Gustafsson,R002,2026-04-21,2026-01-09,Warm,No,On site,Stockholm,"Azure, Looker, Pandas, PostgreSQL, Python, SQL, dbt",3
+C6836994,Liam Nilsson,R006,2026-05-25,2026-02-06,Cold,Yes,Hybrid,Remote,"AWS, Airflow, FastAPI, Pandas, Power BI, Python, REST APIs, React",5
+C2394073,Cameron Larsson,R005,2026-06-18,2026-02-01,Neutral,No,Hybrid,Remote,"Azure, GCP, Kubernetes, Pandas, PostgreSQL, Power BI, Terraform, Testing",2
+C1398165,Jordan Johansson,R005,2026-05-08,2026-01-05,Warm,No,Hybrid,Remote,"AWS, CI CD, Docker, Linux, PostgreSQL, REST APIs, React, SQL, Tableau",2
+C2602462,Maja Gustafsson,R003,2026-03-01,2026-02-07,Cold,Yes,On site,Remote,"AWS, Airflow, ETL, FastAPI, Power BI, SQL, Tableau, Testing",1
+C9813663,Quinn Olsson,R006,2026-02-18,2025-12-29,Cold,Maybe,Hybrid,Uppsala,"Data Modeling, Pandas, Power BI, REST APIs, React, Snowflake, Tableau",3
+C1952657,Drew Svensson,R001,2026-02-28,2026-01-07,Warm,Yes,Remote,Remote,"AWS, Azure, CI CD, Docker, GCP, Node, REST APIs, Tableau",7
+C9258980,Noah Persson,R002,2026-03-16,2026-01-31,Cold,Yes,Hybrid,Stockholm,"AWS, Azure, CI CD, Excel, FastAPI, Linux, Power BI, REST APIs, React, SQL",8
+C4223470,Noah Nilsson,R004,2026-05-18,2025-12-11,Cold,Maybe,Remote,Stockholm,"AWS, Azure, ETL, GCP, SQL, Snowflake",0
+C2974540,Avery Lind,R003,2026-03-17,2026-02-12,Cold,Yes,On site,Stockholm,"Airflow, Looker, Node, Power BI, SQL, Snowflake, Terraform",4
+C4529505,Sam Eriksson,R005,2026-04-17,2026-01-08,Neutral,No,On site,Stockholm,"Airflow, ETL, GCP, Looker, Power BI, React, dbt",7
+C9306589,Taylor Larsson,R003,2026-04-11,2026-02-06,Neutral,Yes,On site,Gothenburg,"AWS, Airflow, Azure, Docker, Power BI, Snowflake",3
+C6529466,Sam Svensson,R003,2026-05-11,2026-01-09,Neutral,Yes,On site,Uppsala,"Azure, Excel, Linux, Pandas, Power BI, REST APIs",7
+C5638679,Quinn Eriksson,R006,2026-04-20,2026-02-05,Neutral,No,On site,Remote,"Docker, ETL, GCP, Linux, Node, Power BI, Spark",7
+C8027982,Liam Larsson,R003,2026-05-06,2026-02-11,Neutral,No,Hybrid,Stockholm,"CI CD, Data Modeling, Docker, ETL, Kubernetes, Python, REST APIs, SQL, Snowflake",2
+C7612579,Liam Johansson,R001,2026-04-22,2026-01-25,Neutral,No,On site,Remote,"Azure, Kubernetes, Linux, Looker, Python, SQL, Tableau, Terraform, Testing, dbt",5
+C3503007,Avery Andersson,R001,2026-07-01,2026-02-11,Cold,Yes,Hybrid,Remote,"Data Modeling, Linux, REST APIs, SQL, Tableau",0
+C3150298,Elin Gustafsson,R003,2026-04-01,2026-02-04,Neutral,Maybe,Hybrid,Gothenburg,"Airflow, Azure, GCP, Linux, Looker, Python, React, Terraform, Testing, dbt",0
+C8916653,Sam Svensson,R002,2026-06-05,2026-02-12,Neutral,Yes,Remote,Gothenburg,"CI CD, Docker, FastAPI, Snowflake, Spark, Tableau, Terraform",8
+C0061975,Casey Olsson,R002,2026-06-05,2025-12-01,Cold,Yes,On site,Gothenburg,"AWS, GCP, Linux, Looker, PostgreSQL, Power BI, Python, SQL, Snowflake",5
+C5053160,Robin Nilsson,R005,2026-05-12,2026-01-02,Neutral,No,Hybrid,Malmo,"AWS, ETL, FastAPI, Power BI, Snowflake, dbt",7
+C2044528,Cameron Andersson,R002,2026-06-28,2026-02-08,Warm,Yes,Hybrid,Malmo,"Azure, Docker, ETL, FastAPI, GCP, Python, SQL",7
+C6392135,Alex Persson,R002,2026-02-18,2025-12-06,Cold,Yes,Hybrid,Remote,"AWS, Azure, Data Modeling, Docker, Excel, Pandas, Python",1
+C1995252,Maja Nilsson,R002,2026-04-01,2026-02-04,Warm,No,Remote,Stockholm,"Azure, ETL, GCP, REST APIs, React, Spark",7
+C3327113,Morgan Olsson,R005,2026-03-20,2026-02-03,Warm,Maybe,On site,Malmo,"AWS, Azure, CI CD, Data Modeling, ETL, Pandas, Power BI, Testing, dbt",2
+C7562918,Casey Nilsson,R005,2026-02-25,2026-02-13,Neutral,No,Remote,Remote,"Airflow, FastAPI, GCP, Linux, Pandas, PostgreSQL, REST APIs, Tableau",5
+C9636732,Alex Persson,R001,2026-06-06,2026-02-05,Warm,Yes,On site,Gothenburg,"Airflow, Linux, REST APIs, SQL, Terraform, dbt",0
+C9644087,Casey Andersson,R002,2026-05-06,2026-02-10,Warm,No,Hybrid,Uppsala,"Airflow, ETL, GCP, Linux, Looker, Node, Power BI, React, dbt",4
+C6200901,Riley Andersson,R002,2026-05-19,2026-02-09,Warm,Yes,On site,Gothenburg,"Azure, Node, Pandas, Snowflake, dbt",3
+C1872353,Avery Gustafsson,R004,2026-06-16,2026-01-18,Cold,Maybe,On site,Remote,"Airflow, CI CD, Linux, REST APIs, React, SQL, Spark",3
+C6798339,Cameron Berg,R004,2026-06-25,2026-01-21,Cold,Yes,On site,Malmo,"AWS, Airflow, Azure, Docker, ETL, Excel, Node, SQL, Snowflake, Spark",1
+C6809436,Emma Svensson,R004,2026-04-25,2026-02-10,Cold,Maybe,On site,Gothenburg,"Kubernetes, Power BI, Python, Terraform, Testing",3
+C7380579,Taylor Lind,R002,2026-06-14,2025-12-16,Cold,Yes,Hybrid,Malmo,"AWS, Azure, FastAPI, Looker, Python, React, Snowflake, Spark, Tableau, dbt",3
+C7076831,Sam Andersson,R001,2026-02-18,2026-01-24,Cold,Yes,Remote,Remote,"AWS, Airflow, Data Modeling, ETL, Node, Python, REST APIs, SQL, Terraform, Testing",3
+C8538619,Emma Karlsson,R002,2026-03-09,2026-01-23,Warm,Maybe,On site,Uppsala,"AWS, Data Modeling, GCP, Looker, Terraform, Testing, dbt",1
+C5637170,Jamie Karlsson,R005,2026-02-28,2026-02-14,Warm,No,Hybrid,Malmo,"AWS, Airflow, Excel, GCP, Kubernetes, Linux, PostgreSQL, SQL, Snowflake, dbt",6
+C8326336,Cameron Karlsson,R001,2026-03-29,2025-12-09,Warm,Yes,Remote,Gothenburg,"Azure, Linux, Pandas, React, Snowflake, Spark",8
+C4032928,Liam Lind,R002,2026-02-23,2026-01-07,Neutral,Yes,On site,Malmo,"Airflow, Azure, Linux, Python, Spark, Tableau",3
+C4014276,Alex Gustafsson,R003,2026-04-24,2026-01-25,Cold,Yes,On site,Stockholm,"AWS, CI CD, Data Modeling, Excel, Kubernetes, Looker, Node, Spark, Testing",1
+C9461918,Sofia Andersson,R003,2026-02-23,2026-01-18,Cold,Maybe,Hybrid,Remote,"Airflow, CI CD, ETL, GCP, Power BI, Snowflake, Terraform",1
+C2192832,Avery Larsson,R002,2026-05-29,2025-12-18,Warm,Maybe,Hybrid,Stockholm,"Azure, FastAPI, Looker, PostgreSQL, React, Tableau",1
+C7340090,Morgan Nilsson,R006,2026-03-20,2026-01-28,Warm,Maybe,Remote,Malmo,"Azure, Docker, ETL, Kubernetes, Node, Python, REST APIs, Tableau, Terraform",2
+C5557670,Skyler Johansson,R003,2026-03-01,2025-12-31,Cold,No,On site,Uppsala,"AWS, Airflow, GCP, Linux, Power BI, Python, Spark, Terraform, dbt",5
+C2053397,Riley Olsson,R004,2026-02-28,2025-12-21,Cold,Yes,Remote,Gothenburg,"AWS, Airflow, FastAPI, Power BI, Snowflake",1
+C2919901,Drew Lind,R004,2026-06-27,2026-02-05,Cold,Yes,Hybrid,Stockholm,"Docker, FastAPI, GCP, Node, REST APIs, React, Spark, dbt",8
+C4046078,Sofia Andersson,R006,2026-03-29,2026-01-23,Cold,Maybe,Remote,Stockholm,"AWS, FastAPI, GCP, Looker, Node, REST APIs, SQL, Tableau, Terraform",8
+C5929714,Drew Larsson,R002,2026-03-19,2025-12-05,Warm,Yes,On site,Stockholm,"Airflow, ETL, Pandas, PostgreSQL, Spark",4
+C7616625,Quinn Lind,R003,2026-06-17,2025-12-12,Cold,Maybe,On site,Gothenburg,"Airflow, Kubernetes, Pandas, PostgreSQL, Python, Snowflake",3
+C9129442,Alex Svensson,R002,2026-03-12,2026-02-06,Warm,No,Hybrid,Malmo,"Data Modeling, ETL, Kubernetes, Linux, Looker, REST APIs, SQL, Terraform",2
+C8865937,Skyler Eriksson,R004,2026-04-21,2026-02-11,Cold,Maybe,On site,Remote,"CI CD, ETL, Linux, Looker, Pandas, Power BI, React, Snowflake, Spark, dbt",6
+C6201071,Quinn Berg,R006,2026-05-05,2026-01-03,Neutral,Yes,Hybrid,Remote,"Data Modeling, Docker, GCP, Pandas, Spark, Testing",4
+C3279828,Taylor Andersson,R001,2026-06-05,2025-12-17,Neutral,No,Remote,Malmo,"Azure, FastAPI, GCP, Looker, PostgreSQL, REST APIs, SQL, Terraform, Testing, dbt",6
+C7463524,Drew Olsson,R005,2026-07-04,2026-02-16,Cold,Yes,On site,Malmo,"Azure, CI CD, Looker, React, Tableau, Terraform, dbt",3
+C4416524,Maja Andersson,R004,2026-02-24,2026-02-09,Neutral,Yes,On site,Remote,"AWS, Airflow, Azure, Docker, Excel, GCP, PostgreSQL, Power BI, SQL, Terraform",3
+C3716289,Elin Karlsson,R003,2026-03-20,2026-02-07,Warm,No,Remote,Gothenburg,"Airflow, Azure, Excel, GCP, Linux, Looker, Pandas, React, dbt",4
+C8672137,Drew Svensson,R002,2026-04-02,2026-01-09,Cold,Yes,On site,Remote,"AWS, Excel, Node, Pandas, Power BI, Snowflake, Tableau, Terraform, Testing",1
+C0970957,Taylor Svensson,R001,2026-06-06,2025-12-09,Neutral,Maybe,On site,Uppsala,"Azure, Data Modeling, Excel, FastAPI, GCP, Pandas, PostgreSQL, Testing",5
+C9918951,Casey Olsson,R003,2026-07-01,2026-01-07,Warm,No,On site,Malmo,"Docker, ETL, PostgreSQL, Power BI, REST APIs, Tableau",8
+C1850937,Elin Andersson,R002,2026-06-17,2026-02-01,Cold,No,Remote,Remote,"Azure, Data Modeling, Kubernetes, Linux, Power BI, Python, React",8
+C8470209,Elin Persson,R005,2026-03-21,2026-02-05,Cold,No,Hybrid,Gothenburg,"Data Modeling, Pandas, REST APIs, Snowflake, Spark, dbt",6
+C6898069,Robin Karlsson,R005,2026-03-28,2026-01-24,Cold,No,Remote,Stockholm,"AWS, CI CD, ETL, Excel, REST APIs",5
+C0796329,Quinn Olsson,R004,2026-04-12,2026-01-31,Neutral,Maybe,Remote,Gothenburg,"Data Modeling, ETL, Node, React, Snowflake, Tableau, dbt",0
+C8798183,Riley Karlsson,R001,2026-03-31,2026-01-07,Cold,Maybe,Remote,Remote,"CI CD, Docker, GCP, Kubernetes, Pandas, SQL, Spark",0
+C0456952,Drew Eriksson,R005,2026-05-05,2026-02-13,Neutral,Maybe,Hybrid,Uppsala,"Data Modeling, ETL, Kubernetes, Node, Power BI, Snowflake, Spark, dbt",8
+C4989835,Alex Andersson,R005,2026-05-23,2026-01-09,Neutral,No,Remote,Stockholm,"Azure, CI CD, Data Modeling, Docker, Excel, Looker, Power BI, React, Spark, Tableau",6
+C1750361,Alex Svensson,R001,2026-06-20,2025-12-09,Warm,No,Remote,Gothenburg,"CI CD, ETL, Kubernetes, Pandas, Testing",4
+C0262832,Alex Karlsson,R005,2026-04-27,2025-12-19,Neutral,No,Hybrid,Remote,"Airflow, CI CD, Data Modeling, Docker, GCP, React, Testing",8
+C4996688,Casey Olsson,R001,2026-05-23,2026-01-05,Cold,Yes,Remote,Gothenburg,"CI CD, Excel, Node, REST APIs, Tableau",1
+C4906955,Riley Eriksson,R005,2026-05-23,2026-01-06,Neutral,No,Hybrid,Stockholm,"AWS, Azure, Data Modeling, FastAPI, Linux, Node, Python, REST APIs, React, Terraform",6
+C5287350,Drew Olsson,R005,2026-03-30,2025-12-01,Neutral,No,On site,Stockholm,"CI CD, Kubernetes, PostgreSQL, Power BI, Snowflake, Spark, Tableau",8
+C8717335,Jamie Johansson,R003,2026-03-02,2026-02-01,Cold,Maybe,Remote,Uppsala,"Azure, Docker, ETL, Excel, GCP, SQL, Snowflake, Terraform",8
+C1410828,Taylor Johansson,R003,2026-06-19,2026-01-15,Neutral,Yes,On site,Remote,"AWS, Azure, GCP, Power BI, Python, Tableau",1
+C2314568,Alex Persson,R002,2026-06-26,2026-02-14,Neutral,Maybe,Hybrid,Remote,"Kubernetes, Linux, Node, React, Snowflake, Terraform",0
+C4737906,Jamie Nilsson,R004,2026-04-30,2026-02-08,Neutral,Yes,On site,Uppsala,"AWS, Data Modeling, Docker, ETL, FastAPI, GCP, Power BI, Python, SQL, Terraform",5
+C0527330,Sam Persson,R005,2026-03-18,2026-02-05,Neutral,No,On site,Gothenburg,"Data Modeling, Linux, Python, REST APIs, Spark",3
+C0000497,Alex Olsson,R006,2026-05-23,2025-12-09,Cold,Maybe,On site,Malmo,"Docker, Excel, Looker, PostgreSQL, Python, REST APIs, React",0
+C3891887,Avery Svensson,R003,2026-02-18,2026-02-13,Warm,No,On site,Uppsala,"Data Modeling, Linux, Node, Pandas, Power BI, Python, REST APIs, React, Tableau, dbt",3
+C5143795,Taylor Nilsson,R005,2026-05-13,2026-02-15,Warm,Maybe,Hybrid,Malmo,"Airflow, GCP, Spark, Terraform, dbt",6
+C0467057,Morgan Nilsson,R001,2026-06-01,2026-01-03,Warm,No,Hybrid,Gothenburg,"Data Modeling, ETL, Excel, Kubernetes, Pandas, SQL, Tableau",7
+C0260403,Sofia Andersson,R005,2026-06-14,2026-02-04,Warm,Yes,Remote,Remote,"ETL, FastAPI, Snowflake, Spark, Tableau",5
+C9693467,Riley Gustafsson,R004,2026-06-15,2026-02-13,Neutral,Maybe,On site,Stockholm,"Airflow, ETL, FastAPI, Power BI, REST APIs, SQL, Snowflake, Tableau, Testing",0
+C4802696,Avery Olsson,R006,2026-03-31,2026-02-13,Warm,No,Hybrid,Uppsala,"AWS, CI CD, Linux, Looker, Node, React, Snowflake",7
+C5204936,Avery Persson,R001,2026-06-08,2025-12-16,Warm,No,Remote,Stockholm,"AWS, Airflow, Excel, GCP, Kubernetes, Linux, Node, PostgreSQL, Snowflake",6
+C5102383,Avery Larsson,R005,2026-06-24,2025-12-13,Neutral,Yes,Hybrid,Remote,"AWS, Azure, ETL, Linux, PostgreSQL, Power BI, Snowflake, Spark",0
+C3505449,Riley Nilsson,R006,2026-03-13,2026-02-07,Neutral,Maybe,On site,Stockholm,"Airflow, Linux, PostgreSQL, Power BI, Spark, Terraform",4
+C0238176,Riley Johansson,R001,2026-04-07,2026-01-31,Cold,Maybe,Hybrid,Uppsala,"Data Modeling, Docker, ETL, Linux, Pandas, Power BI, Spark",6
+C3437209,Quinn Lind,R003,2026-06-29,2026-01-05,Neutral,No,Hybrid,Stockholm,"Airflow, Azure, CI CD, Looker, Power BI, React, Snowflake, Testing",7
+C0823656,Sam Larsson,R005,2026-06-20,2026-02-05,Warm,No,Remote,Uppsala,"Airflow, Azure, Node, Pandas, PostgreSQL, Python, React, Spark, Terraform, Testing",8
+C8556853,Cameron Berg,R004,2026-06-14,2025-12-07,Warm,Maybe,Remote,Stockholm,"Airflow, CI CD, Pandas, SQL, Spark, dbt",5
+C3748897,Emma Eriksson,R004,2026-04-30,2025-12-18,Neutral,Maybe,Remote,Remote,"Airflow, Azure, Data Modeling, Docker, Node, Pandas, React, Terraform, dbt",4
+C2493520,Morgan Johansson,R005,2026-07-05,2026-02-16,Warm,Maybe,Hybrid,Malmo,"Azure, FastAPI, PostgreSQL, Power BI, Python",8
+C3191265,Elin Eriksson,R002,2026-03-21,2026-01-18,Neutral,Maybe,On site,Malmo,"Azure, Linux, Pandas, Power BI, Testing",0
+C5118119,Liam Gustafsson,R002,2026-04-15,2026-02-13,Cold,Maybe,On site,Malmo,"Azure, Excel, GCP, Linux, Node, Python, REST APIs, SQL, Snowflake, Testing",2
+C6166853,Noah Johansson,R003,2026-03-16,2026-01-02,Cold,Yes,Remote,Malmo,"CI CD, ETL, Excel, Kubernetes, Linux, Looker, Pandas, Power BI, Snowflake, Spark",1
+C6209746,Sam Svensson,R001,2026-04-17,2026-01-11,Warm,Yes,On site,Stockholm,"GCP, Linux, React, Spark, Tableau, Testing, dbt",6
+C2538417,Taylor Nilsson,R006,2026-06-14,2026-02-05,Neutral,No,On site,Remote,"AWS, Azure, CI CD, FastAPI, Linux, PostgreSQL, REST APIs, SQL, Snowflake, Testing",5
+C0747863,Avery Nilsson,R005,2026-04-15,2026-02-07,Warm,Maybe,Hybrid,Gothenburg,"AWS, CI CD, Kubernetes, Python, Tableau",3
+C3532256,Riley Johansson,R003,2026-06-27,2026-02-13,Cold,No,On site,Remote,"AWS, Airflow, Data Modeling, ETL, Excel, Linux",0
+C6954417,Noah Johansson,R005,2026-03-14,2026-02-11,Cold,No,Remote,Malmo,"CI CD, ETL, Kubernetes, Looker, PostgreSQL, REST APIs, React, SQL",8
+C2810819,Jamie Eriksson,R004,2026-05-17,2026-02-06,Cold,Yes,Hybrid,Gothenburg,"Excel, GCP, Kubernetes, Node, Power BI, Python, REST APIs, SQL",1
+C0731796,Liam Olsson,R004,2026-06-25,2026-02-14,Cold,No,On site,Gothenburg,"Azure, Docker, ETL, Excel, FastAPI, PostgreSQL, Python, React, Tableau, dbt",0
+C6642526,Casey Nilsson,R002,2026-06-08,2026-01-10,Warm,No,On site,Malmo,"Data Modeling, FastAPI, Linux, Pandas, Spark, Tableau",2
+C7532513,Skyler Nilsson,R003,2026-06-23,2026-02-15,Warm,Yes,Hybrid,Gothenburg,"CI CD, Power BI, React, Snowflake, Spark",3
+C7333312,Skyler Berg,R006,2026-04-25,2025-12-11,Cold,Maybe,On site,Gothenburg,"Airflow, Azure, Excel, PostgreSQL, Power BI, Python, Snowflake, Terraform, Testing, dbt",6
+C2168488,Noah Johansson,R003,2026-04-17,2026-01-07,Warm,Maybe,On site,Uppsala,"Azure, CI CD, FastAPI, Kubernetes, SQL",2
+C5951519,Robin Andersson,R002,2026-06-15,2026-02-06,Neutral,Yes,Hybrid,Stockholm,"AWS, Node, React, Tableau, Testing",0
+C0154162,Casey Olsson,R001,2026-06-01,2025-12-16,Cold,No,On site,Uppsala,"Docker, Excel, Kubernetes, Linux, Power BI, REST APIs, Spark, Tableau",8
+C8483181,Jamie Gustafsson,R003,2026-03-21,2026-01-19,Neutral,Yes,Hybrid,Gothenburg,"Airflow, GCP, Node, Pandas, REST APIs, React, Snowflake",1
+C2258903,Quinn Johansson,R002,2026-05-05,2026-01-30,Warm,Yes,Hybrid,Gothenburg,"AWS, Azure, Data Modeling, Excel, GCP, Node, REST APIs, Tableau, dbt",8
+C4464990,Casey Svensson,R003,2026-04-16,2026-01-14,Cold,Yes,Remote,Gothenburg,"AWS, Azure, ETL, Excel, Looker, SQL, Tableau",8
+C6331549,Jamie Larsson,R001,2026-05-25,2026-01-24,Neutral,Yes,Hybrid,Malmo,"AWS, Data Modeling, ETL, Kubernetes, Node, Pandas",5
+C9450226,Alex Eriksson,R004,2026-04-08,2026-02-11,Cold,No,Hybrid,Malmo,"Azure, FastAPI, GCP, PostgreSQL, Python, React, Snowflake, Spark, Tableau",3
+C9096844,Quinn Olsson,R002,2026-03-18,2026-01-29,Cold,Yes,Hybrid,Stockholm,"Azure, Excel, Kubernetes, Python, Terraform, Testing",6
+C2869567,Emma Johansson,R005,2026-03-28,2026-02-07,Warm,No,Remote,Gothenburg,"Airflow, Azure, Docker, FastAPI, Power BI, Python, REST APIs, React, SQL, Testing",6
+C0170418,Avery Persson,R006,2026-04-28,2026-01-07,Cold,Maybe,Hybrid,Gothenburg,"Airflow, Data Modeling, ETL, Excel, GCP, Python, SQL, Spark, Terraform, Testing",8
+C2083666,Alex Johansson,R002,2026-03-03,2026-02-05,Cold,Yes,On site,Remote,"AWS, CI CD, Excel, Node, Power BI, REST APIs, Spark, Tableau, Terraform, Testing",1
+C0135772,Maja Gustafsson,R001,2026-02-27,2026-01-12,Warm,Maybe,Hybrid,Remote,"AWS, Airflow, Docker, PostgreSQL, REST APIs, Spark, Tableau",4
+C6045927,Alex Olsson,R004,2026-03-27,2026-02-05,Warm,No,On site,Stockholm,"Airflow, Azure, ETL, GCP, Kubernetes, Node, Power BI, SQL, Testing, dbt",2
+C7355209,Jamie Johansson,R004,2026-05-04,2025-11-30,Cold,Yes,On site,Stockholm,"Airflow, Data Modeling, Excel, FastAPI, GCP, Power BI, React, SQL, Terraform",4
+C8041834,Morgan Persson,R006,2026-04-06,2026-01-18,Warm,Yes,Hybrid,Gothenburg,"Docker, Kubernetes, Linux, Node, PostgreSQL, Power BI, React, Snowflake",7
+C6162534,Avery Svensson,R004,2026-04-25,2026-02-14,Cold,No,Hybrid,Malmo,"AWS, CI CD, Excel, Linux, Python, React, Spark",4
+C0627591,Avery Gustafsson,R006,2026-05-06,2025-12-17,Cold,Yes,Hybrid,Malmo,"Azure, FastAPI, GCP, Pandas, Power BI, Spark, dbt",6
+C2158051,Liam Gustafsson,R003,2026-02-18,2025-12-13,Warm,No,On site,Stockholm,"CI CD, Data Modeling, Excel, Node, Power BI, REST APIs, React, Snowflake, Terraform",7
+C8462144,Jamie Lind,R005,2026-06-03,2026-01-04,Neutral,Maybe,Remote,Stockholm,"Airflow, CI CD, ETL, Excel, Node",2
+C3437915,Noah Olsson,R002,2026-03-09,2026-02-06,Warm,Yes,On site,Malmo,"Excel, Node, Pandas, Python, Spark",0
+C5412613,Sofia Eriksson,R001,2026-03-31,2026-01-21,Neutral,Maybe,On site,Malmo,"ETL, GCP, Snowflake, Spark, Tableau",6
+C6848385,Sam Johansson,R004,2026-05-20,2026-02-02,Cold,Maybe,Hybrid,Malmo,"AWS, CI CD, FastAPI, React, Testing",5
+C2621544,Maja Lind,R001,2026-06-14,2026-02-10,Warm,Yes,Hybrid,Uppsala,"Azure, Docker, Looker, Node, PostgreSQL, Power BI",1
+C0959722,Liam Gustafsson,R005,2026-04-15,2025-12-17,Neutral,Maybe,Hybrid,Gothenburg,"AWS, CI CD, FastAPI, PostgreSQL, REST APIs, SQL, dbt",3
+C9433584,Alex Larsson,R003,2026-04-11,2025-12-15,Cold,No,On site,Remote,"AWS, ETL, Excel, Node, Pandas, Power BI, REST APIs, Terraform, dbt",3
+C5177756,Maja Svensson,R003,2026-04-29,2026-02-14,Cold,Maybe,On site,Uppsala,"AWS, CI CD, GCP, Kubernetes, Pandas, REST APIs, SQL, Tableau, Terraform, dbt",2
+C8409155,Maja Berg,R004,2026-03-26,2026-02-04,Cold,Maybe,Remote,Remote,"CI CD, ETL, Excel, FastAPI, Linux, Node, REST APIs, React, Terraform",0
+C7459745,Drew Olsson,R004,2026-02-27,2026-02-14,Warm,No,Hybrid,Gothenburg,"AWS, Azure, Data Modeling, Docker, Looker, PostgreSQL, REST APIs, Tableau",0
+C8814977,Taylor Johansson,R004,2026-05-10,2026-02-09,Warm,No,On site,Remote,"Airflow, Data Modeling, Docker, FastAPI, GCP, Kubernetes, Power BI, Terraform",6
+C1060462,Maja Larsson,R006,2026-06-12,2026-02-12,Neutral,No,Hybrid,Uppsala,"Airflow, CI CD, Pandas, SQL, Spark, Tableau",5
+C0835098,Liam Andersson,R005,2026-03-10,2026-02-11,Cold,Yes,Remote,Malmo,"Airflow, Docker, Excel, FastAPI, GCP, Kubernetes, Looker, Pandas, REST APIs, Tableau",4
+C6328575,Liam Gustafsson,R006,2026-05-16,2026-02-07,Warm,Yes,On site,Malmo,"FastAPI, Linux, Node, PostgreSQL, Python, Tableau, Testing",7
+C6568960,Sam Johansson,R004,2026-06-12,2026-02-09,Neutral,Maybe,On site,Uppsala,"Airflow, ETL, Kubernetes, Linux, Looker, PostgreSQL, Power BI, React",4
+C9675828,Cameron Johansson,R006,2026-06-03,2026-01-04,Warm,No,Remote,Malmo,"Airflow, GCP, Linux, Pandas, SQL, Tableau, Terraform",0
+C2622651,Elin Lind,R001,2026-05-01,2026-02-06,Cold,Yes,Hybrid,Remote,"AWS, Airflow, Kubernetes, Linux, Node, PostgreSQL, Power BI, Python",6
+C2019677,Cameron Svensson,R001,2026-05-05,2026-01-31,Neutral,Maybe,Hybrid,Remote,"AWS, Airflow, CI CD, Docker, Kubernetes, Node, Spark, dbt",5
+C8824186,Casey Eriksson,R006,2026-07-04,2026-02-02,Cold,Maybe,Hybrid,Malmo,"Azure, FastAPI, PostgreSQL, Python, Spark",0
+C6323539,Jamie Olsson,R005,2026-04-24,2025-12-18,Warm,Maybe,On site,Malmo,"AWS, Data Modeling, Excel, Looker, Node, Pandas, Spark, Tableau, Terraform",2
+C8542204,Jamie Larsson,R006,2026-06-12,2025-12-21,Neutral,Yes,Hybrid,Malmo,"AWS, Azure, ETL, FastAPI, Node, Snowflake",4
+C3181422,Riley Karlsson,R003,2026-05-28,2026-01-19,Warm,Yes,On site,Remote,"AWS, Docker, Excel, FastAPI, Node, PostgreSQL, REST APIs, React, Snowflake, Spark",2
+C5250766,Sam Andersson,R004,2026-03-17,2026-02-14,Neutral,Maybe,Remote,Stockholm,"AWS, Looker, Node, Pandas, React, Snowflake, Testing",6
+C0687680,Jordan Eriksson,R001,2026-04-25,2025-12-21,Warm,Maybe,Remote,Malmo,"Linux, Node, PostgreSQL, Python, REST APIs, React, Testing",7
+C6339965,Sofia Andersson,R004,2026-06-03,2026-02-09,Warm,No,Remote,Gothenburg,"CI CD, Data Modeling, Docker, ETL, FastAPI, Linux, Spark, Tableau, Terraform",8
+C8002107,Taylor Nilsson,R004,2026-04-16,2026-02-11,Cold,Yes,Remote,Gothenburg,"CI CD, Excel, Node, SQL, Tableau",8
+C1666958,Morgan Lind,R005,2026-06-29,2026-02-08,Cold,Maybe,Hybrid,Malmo,"Airflow, Docker, FastAPI, Kubernetes, Pandas, SQL",5
+C8228933,Quinn Karlsson,R001,2026-04-04,2026-01-09,Neutral,Maybe,On site,Uppsala,"CI CD, Data Modeling, Excel, FastAPI, Linux, Power BI",6
+C1965617,Emma Svensson,R002,2026-04-10,2025-12-25,Cold,No,On site,Uppsala,"Azure, GCP, Linux, Pandas, PostgreSQL, React, SQL, Spark",3
+C2365919,Jamie Karlsson,R002,2026-02-21,2026-02-03,Warm,Maybe,Hybrid,Malmo,"Data Modeling, Docker, Kubernetes, Power BI, dbt",1
+C0762440,Emma Persson,R004,2026-03-06,2026-01-27,Warm,Maybe,Hybrid,Malmo,"AWS, Airflow, Azure, GCP, Node, Spark",6
+C1499052,Elin Johansson,R002,2026-04-17,2026-02-03,Cold,Maybe,Hybrid,Stockholm,"AWS, Airflow, Data Modeling, Excel, Python, Snowflake",1
+C0795858,Elin Johansson,R003,2026-05-06,2025-12-18,Warm,No,On site,Uppsala,"Airflow, Data Modeling, Docker, GCP, SQL, Testing, dbt",2
+C5465697,Skyler Nilsson,R005,2026-06-16,2026-02-04,Neutral,Maybe,Remote,Uppsala,"Airflow, CI CD, Node, Python, React, SQL, Spark, Terraform, Testing",5
+C8128056,Sam Svensson,R001,2026-05-08,2026-02-05,Warm,Yes,Hybrid,Remote,"AWS, CI CD, ETL, Power BI, Spark, Tableau, Terraform",1
+C6965395,Drew Gustafsson,R006,2026-07-02,2026-02-02,Neutral,Maybe,On site,Malmo,"Data Modeling, Power BI, React, SQL, dbt",4
+C5513673,Avery Berg,R002,2026-06-04,2026-01-14,Cold,Yes,Hybrid,Gothenburg,"Docker, Excel, Snowflake, Spark, Tableau, dbt",8
+C9118803,Skyler Andersson,R006,2026-04-26,2026-02-05,Warm,No,Hybrid,Malmo,"Azure, ETL, Excel, Linux, Looker, Node, Power BI, dbt",5
+C7356894,Noah Karlsson,R005,2026-06-13,2025-12-12,Neutral,Maybe,Hybrid,Stockholm,"ETL, Linux, Pandas, PostgreSQL, Python, Snowflake",6
+C4508995,Noah Johansson,R006,2026-05-19,2025-12-26,Cold,No,Remote,Stockholm,"AWS, ETL, Excel, Kubernetes, Looker, PostgreSQL, SQL, Snowflake, Tableau, dbt",1
+C1322011,Avery Karlsson,R001,2026-03-11,2025-12-17,Cold,No,On site,Uppsala,"CI CD, Data Modeling, Kubernetes, Pandas, Snowflake, Spark, Terraform, Testing, dbt",4
+C3262576,Sofia Berg,R006,2026-03-28,2026-02-15,Warm,Yes,Hybrid,Remote,"ETL, Pandas, React, SQL, dbt",4
+C8732998,Alex Svensson,R004,2026-06-02,2026-02-13,Warm,Maybe,Hybrid,Uppsala,"Airflow, ETL, Excel, Kubernetes, Pandas",6
+C1040571,Drew Lind,R003,2026-05-17,2025-12-22,Neutral,Yes,Hybrid,Stockholm,"Node, Python, REST APIs, SQL, Snowflake",5
+C8399162,Sofia Eriksson,R001,2026-07-03,2026-02-16,Cold,Yes,Hybrid,Gothenburg,"Airflow, Docker, FastAPI, PostgreSQL, SQL",7
+C6358664,Liam Larsson,R006,2026-03-22,2026-02-07,Neutral,Maybe,Hybrid,Uppsala,"AWS, Data Modeling, Docker, ETL, Excel, Linux, Pandas, dbt",2
+C8754768,Sofia Olsson,R006,2026-04-29,2025-12-25,Cold,Yes,On site,Uppsala,"FastAPI, Node, Python, REST APIs, Spark, Tableau",3
+C6240702,Jamie Gustafsson,R002,2026-06-27,2026-01-19,Neutral,Maybe,On site,Stockholm,"AWS, Docker, Excel, Node, Power BI, SQL",3
+C8044544,Jamie Nilsson,R003,2026-03-16,2026-01-30,Warm,Yes,Hybrid,Uppsala,"AWS, Airflow, Azure, Looker, PostgreSQL, React, Spark, Tableau",6
+C2494525,Avery Lind,R003,2026-02-22,2025-12-31,Neutral,No,Remote,Gothenburg,"AWS, Airflow, Data Modeling, Docker, Linux, Pandas, SQL, Snowflake, Spark, Terraform",3
+C8715973,Morgan Karlsson,R001,2026-05-27,2026-01-08,Warm,No,Hybrid,Malmo,"Docker, ETL, Looker, Node, dbt",3
+C2451856,Robin Persson,R001,2026-03-02,2025-12-28,Warm,No,On site,Malmo,"Looker, Power BI, REST APIs, React, SQL",3
+C7146997,Morgan Gustafsson,R003,2026-04-08,2025-12-04,Cold,Yes,Hybrid,Uppsala,"Airflow, Data Modeling, Docker, Excel, GCP, Linux, Pandas, Python, Snowflake, Spark",7
+C0595019,Quinn Johansson,R006,2026-06-04,2026-02-08,Warm,Yes,Remote,Malmo,"Azure, Docker, FastAPI, GCP, Kubernetes, Pandas, Spark, Testing",8
+C6565896,Cameron Larsson,R001,2026-05-04,2026-01-22,Warm,No,Remote,Stockholm,"AWS, Airflow, CI CD, Docker, ETL, Kubernetes, Linux, PostgreSQL, Snowflake, dbt",3
+C3467629,Cameron Berg,R006,2026-04-01,2025-12-25,Neutral,Maybe,Hybrid,Malmo,"AWS, CI CD, Data Modeling, Docker, GCP, Pandas, PostgreSQL, Snowflake, Spark",6
+C7679395,Robin Andersson,R003,2026-03-29,2026-02-03,Warm,Maybe,On site,Remote,"Azure, CI CD, ETL, Looker, Power BI, Snowflake, Terraform, Testing",8
+C1055318,Riley Persson,R005,2026-06-25,2026-02-06,Neutral,Yes,Hybrid,Stockholm,"AWS, GCP, Looker, Power BI, Python, REST APIs, React, Snowflake, Tableau, Terraform",6
+C6322734,Casey Lind,R002,2026-07-01,2026-01-17,Neutral,No,On site,Remote,"Azure, CI CD, GCP, Kubernetes, Node, Pandas, PostgreSQL, React, SQL, Snowflake",3
+C3881406,Sofia Karlsson,R002,2026-06-02,2025-12-16,Warm,Maybe,Remote,Remote,"Azure, FastAPI, Linux, Node, Python, SQL, dbt",1
+C1285063,Quinn Berg,R002,2026-05-20,2026-01-03,Neutral,Yes,Remote,Stockholm,"AWS, Airflow, ETL, Pandas, Power BI, Testing",3
+C4097697,Sam Karlsson,R006,2026-03-09,2026-02-09,Cold,No,Remote,Malmo,"Data Modeling, ETL, GCP, Linux, REST APIs, React",4
+C8545222,Liam Karlsson,R006,2026-03-24,2026-02-09,Warm,Maybe,Hybrid,Gothenburg,"Data Modeling, ETL, GCP, Node, React, Snowflake, Tableau, Terraform, dbt",1
+C1898249,Sam Andersson,R005,2026-07-02,2026-02-10,Cold,No,Hybrid,Gothenburg,"ETL, FastAPI, Pandas, Snowflake, Spark",5
+C1988270,Jordan Karlsson,R005,2026-02-22,2026-01-01,Warm,Maybe,On site,Malmo,"Python, REST APIs, React, Snowflake, Testing",6
+C2144504,Alex Larsson,R003,2026-05-25,2026-02-10,Warm,Yes,On site,Remote,"AWS, Data Modeling, Excel, Looker, PostgreSQL, REST APIs, Snowflake, Terraform",6
+C0206589,Elin Johansson,R003,2026-03-03,2026-01-16,Warm,Yes,On site,Uppsala,"Data Modeling, Kubernetes, Looker, Node, PostgreSQL, Spark, dbt",7
+C1110842,Casey Lind,R004,2026-04-17,2026-02-04,Warm,No,Remote,Gothenburg,"AWS, CI CD, ETL, Node, PostgreSQL, Power BI, REST APIs, React, Spark, dbt",1
+C8740992,Cameron Persson,R001,2026-03-04,2025-12-08,Warm,Maybe,Remote,Malmo,"Azure, Kubernetes, Looker, PostgreSQL, REST APIs, Spark",7
+C5736923,Jamie Svensson,R005,2026-02-28,2025-12-23,Cold,No,Hybrid,Malmo,"Airflow, Docker, ETL, Kubernetes, Pandas, REST APIs, Testing",7
+C3779960,Quinn Persson,R003,2026-06-12,2026-02-09,Cold,Maybe,Remote,Stockholm,"Data Modeling, ETL, GCP, Kubernetes, Looker, Pandas, React, Tableau, Terraform, Testing",0
+C8384735,Noah Lind,R003,2026-05-27,2025-12-25,Neutral,Maybe,Remote,Uppsala,"AWS, GCP, Linux, React, Snowflake",5
+C2491103,Jordan Nilsson,R004,2026-04-15,2026-01-18,Cold,Yes,Remote,Gothenburg,"AWS, CI CD, ETL, Node, React",6
+C8719437,Jordan Olsson,R006,2026-03-31,2026-02-16,Warm,No,Hybrid,Malmo,"CI CD, Looker, Node, PostgreSQL, REST APIs, SQL",3
+C8392634,Drew Karlsson,R006,2026-03-11,2025-12-15,Neutral,Maybe,Hybrid,Uppsala,"Azure, CI CD, FastAPI, Kubernetes, REST APIs, Spark, Tableau",5
+C9961392,Quinn Persson,R003,2026-02-21,2025-12-24,Cold,No,Remote,Stockholm,"AWS, Azure, CI CD, Data Modeling, FastAPI, GCP, Python, SQL, Tableau, Testing",2
+C9849269,Noah Nilsson,R006,2026-03-09,2026-02-10,Warm,Maybe,Hybrid,Gothenburg,"FastAPI, Kubernetes, Linux, Power BI, Tableau",6
+C5645215,Avery Nilsson,R002,2026-03-14,2025-12-12,Neutral,No,Hybrid,Uppsala,"AWS, Docker, GCP, Pandas, PostgreSQL, Python, Tableau, Terraform, dbt",0
+C0262254,Taylor Eriksson,R005,2026-03-11,2026-02-14,Warm,Yes,Remote,Stockholm,"CI CD, FastAPI, Pandas, REST APIs, SQL, dbt",3
+C0640673,Drew Gustafsson,R005,2026-06-05,2025-11-29,Warm,No,Remote,Uppsala,"Airflow, Excel, FastAPI, Node, PostgreSQL",2
+C7685109,Robin Olsson,R003,2026-04-11,2026-02-15,Cold,No,Hybrid,Remote,"Azure, Data Modeling, Excel, Linux, Looker, Node, React, Spark, Terraform, Testing",7
+C7394139,Jamie Eriksson,R004,2026-03-19,2026-01-24,Warm,Maybe,Remote,Remote,"Docker, Excel, GCP, Linux, Node, Spark, dbt",6
+C7092454,Drew Eriksson,R003,2026-05-20,2026-02-09,Warm,Yes,Remote,Malmo,"Azure, Docker, Excel, Pandas, React, Spark",0
+C6945832,Morgan Larsson,R003,2026-06-11,2026-02-05,Warm,Maybe,On site,Remote,"CI CD, Excel, FastAPI, GCP, Node, REST APIs, React, SQL, Spark, Terraform",1
+C2687664,Jamie Olsson,R004,2026-03-30,2026-01-28,Neutral,Maybe,Remote,Remote,"CI CD, ETL, FastAPI, GCP, Looker, Pandas, PostgreSQL, REST APIs, React, Spark",1
+C5225540,Maja Larsson,R003,2026-06-02,2026-01-14,Neutral,No,On site,Malmo,"GCP, Kubernetes, Pandas, PostgreSQL, REST APIs, Spark, Tableau, Terraform",3
+C8786218,Casey Andersson,R005,2026-07-02,2026-01-03,Cold,Maybe,On site,Uppsala,"Airflow, Data Modeling, FastAPI, GCP, Node, Pandas, SQL, Terraform, Testing",6
+C5801743,Sofia Svensson,R003,2026-03-20,2026-02-11,Warm,Maybe,On site,Remote,"Airflow, ETL, Kubernetes, Linux, Looker, Node, REST APIs, Spark, Tableau, dbt",8
+C7677131,Cameron Olsson,R006,2026-05-31,2026-02-04,Warm,No,Hybrid,Remote,"AWS, CI CD, Kubernetes, Node, Python, SQL, Terraform",6
+C5838194,Maja Larsson,R004,2026-04-13,2026-01-27,Neutral,No,Remote,Gothenburg,"AWS, Data Modeling, Docker, Linux, Looker, Tableau, Testing",1
+C0519022,Sam Persson,R002,2026-05-12,2025-12-06,Neutral,No,Remote,Remote,"Data Modeling, ETL, Looker, Pandas, Python, Tableau, Terraform, Testing",5
+C2349763,Liam Olsson,R003,2026-05-13,2026-01-21,Neutral,Yes,On site,Remote,"AWS, CI CD, Data Modeling, ETL, Excel, GCP, PostgreSQL, Power BI, REST APIs, Testing",5
+C2274946,Avery Lind,R005,2026-05-13,2026-02-03,Neutral,No,Hybrid,Malmo,"Azure, Kubernetes, Linux, Node, Power BI, Python, React, Spark",5
+C1302255,Morgan Lind,R001,2026-05-12,2026-02-06,Warm,No,On site,Stockholm,"Data Modeling, Docker, FastAPI, Kubernetes, Node, Python, REST APIs, React, dbt",4
+C3353773,Jordan Larsson,R004,2026-04-11,2026-01-27,Warm,Yes,On site,Uppsala,"Azure, Data Modeling, Docker, ETL, Kubernetes, Node, Pandas, REST APIs, Tableau, dbt",1
+C3193193,Noah Olsson,R002,2026-04-15,2025-12-18,Cold,Yes,On site,Stockholm,"Data Modeling, ETL, Excel, Linux, Terraform",2
+C7050211,Taylor Larsson,R005,2026-06-16,2025-12-15,Cold,Yes,Hybrid,Remote,"Azure, Data Modeling, ETL, Excel, FastAPI, Node, Pandas, REST APIs, Tableau",5
+C6879331,Avery Eriksson,R002,2026-06-13,2026-01-25,Neutral,Yes,Remote,Uppsala,"Airflow, Data Modeling, Linux, Power BI, Tableau, dbt",8
+C4540317,Morgan Gustafsson,R002,2026-06-12,2026-01-03,Neutral,No,Hybrid,Gothenburg,"AWS, Airflow, ETL, GCP, Kubernetes, Pandas, REST APIs, SQL",2
+C4241899,Sofia Olsson,R003,2026-06-20,2026-02-05,Neutral,No,Hybrid,Stockholm,"CI CD, Docker, Kubernetes, Looker, React, Snowflake",1
+C5712068,Jordan Lind,R002,2026-06-28,2026-01-05,Neutral,Yes,On site,Uppsala,"Azure, Docker, GCP, Kubernetes, Python, Snowflake, dbt",3
+C9689533,Noah Eriksson,R006,2026-05-03,2026-02-07,Neutral,Yes,Remote,Stockholm,"Airflow, Excel, Power BI, Python, React",5
+C4569318,Jamie Larsson,R001,2026-05-20,2026-02-13,Neutral,Yes,Remote,Malmo,"Data Modeling, Excel, Kubernetes, Tableau, Terraform, dbt",1
+C3352974,Sofia Persson,R003,2026-06-08,2026-02-05,Cold,Maybe,On site,Uppsala,"Azure, Data Modeling, ETL, Linux, Pandas, SQL, Terraform",8
+C0316762,Elin Larsson,R004,2026-05-13,2026-01-19,Cold,No,Hybrid,Uppsala,"AWS, FastAPI, GCP, Python, Snowflake",2
+C0178907,Alex Andersson,R002,2026-02-27,2026-01-10,Warm,Maybe,On site,Gothenburg,"Data Modeling, Node, Power BI, Snowflake, dbt",2
+C3772520,Liam Berg,R001,2026-06-19,2026-02-03,Neutral,No,On site,Remote,"Airflow, Azure, Excel, Kubernetes, Snowflake",2
+C0554129,Jordan Karlsson,R005,2026-03-09,2026-02-15,Cold,Maybe,On site,Uppsala,"CI CD, Docker, ETL, Kubernetes, Looker, SQL, Tableau, Terraform, dbt",8
+C6405213,Casey Berg,R005,2026-04-25,2026-01-18,Warm,Yes,Remote,Gothenburg,"Airflow, Azure, Data Modeling, ETL, Node, Pandas, React, Tableau, Terraform",4
+C4362033,Morgan Nilsson,R004,2026-03-07,2026-01-10,Cold,No,On site,Stockholm,"Kubernetes, Looker, Node, Pandas, REST APIs",8
+C8280860,Maja Nilsson,R001,2026-04-19,2026-02-08,Neutral,Maybe,Hybrid,Uppsala,"Docker, FastAPI, Linux, REST APIs, Terraform, Testing",5
+C3985166,Taylor Gustafsson,R003,2026-05-29,2026-02-14,Warm,Maybe,Remote,Stockholm,"Docker, Excel, Kubernetes, Linux, Pandas, Python, REST APIs, React, Snowflake, Tableau",3
+C2008107,Riley Nilsson,R006,2026-05-26,2025-12-18,Neutral,No,Hybrid,Remote,"GCP, Kubernetes, Node, Pandas, Spark",8
+C8848913,Riley Olsson,R002,2026-05-28,2025-12-21,Warm,Maybe,Remote,Uppsala,"AWS, FastAPI, Spark, Testing, dbt",5
+C9707868,Riley Nilsson,R006,2026-06-11,2025-12-07,Neutral,No,Hybrid,Gothenburg,"Azure, ETL, PostgreSQL, Power BI, Spark, Tableau",1
+C0041075,Jamie Nilsson,R004,2026-03-11,2026-01-31,Neutral,No,On site,Remote,"FastAPI, Kubernetes, Linux, Pandas, SQL, Snowflake, Testing",1
+C8124719,Cameron Johansson,R004,2026-06-23,2026-01-06,Cold,Yes,Remote,Malmo,"ETL, Excel, GCP, Looker, Pandas, REST APIs, Testing",3
+C5946917,Avery Nilsson,R002,2026-02-19,2026-02-05,Cold,Yes,Hybrid,Gothenburg,"Docker, GCP, Linux, Node, PostgreSQL, React, SQL, Tableau",8
+C8065606,Elin Gustafsson,R005,2026-05-05,2026-02-13,Neutral,No,On site,Malmo,"AWS, Azure, Excel, Linux, Looker, Node, Pandas, REST APIs, React, Snowflake",3
+C2593587,Morgan Andersson,R005,2026-06-24,2026-02-11,Warm,Yes,Hybrid,Remote,"AWS, CI CD, FastAPI, Kubernetes, Node, Power BI, Python, REST APIs, Tableau",3
+C4307472,Quinn Karlsson,R003,2026-05-24,2026-02-13,Warm,Maybe,On site,Remote,"Airflow, Excel, Looker, Power BI, Spark",5
+C2074370,Jordan Lind,R004,2026-06-08,2026-01-26,Cold,No,On site,Gothenburg,"Airflow, Excel, PostgreSQL, Power BI, Spark",6
+C2306431,Alex Svensson,R006,2026-03-25,2026-02-11,Neutral,No,On site,Remote,"Azure, FastAPI, Linux, Pandas, Power BI, REST APIs, Snowflake, Tableau, Terraform, dbt",6
+C3022641,Sam Eriksson,R005,2026-05-08,2026-01-15,Neutral,Maybe,Remote,Stockholm,"Airflow, ETL, Excel, FastAPI, Node, Snowflake, Terraform",3
+C2605976,Quinn Karlsson,R004,2026-04-15,2025-12-16,Cold,Yes,Remote,Gothenburg,"FastAPI, GCP, Kubernetes, Pandas, PostgreSQL, Power BI, SQL, Snowflake",3
+C3824779,Morgan Johansson,R005,2026-03-22,2025-12-13,Warm,Yes,Hybrid,Malmo,"Data Modeling, FastAPI, GCP, Node, Pandas, Python, Snowflake, Spark, Tableau",5
+C9562411,Emma Nilsson,R006,2026-05-23,2026-02-01,Neutral,Maybe,Remote,Uppsala,"Airflow, Kubernetes, Pandas, PostgreSQL, Python, REST APIs, SQL",6
+C7726013,Elin Karlsson,R005,2026-05-04,2026-02-10,Neutral,Yes,Remote,Malmo,"AWS, Azure, CI CD, Docker, Linux, PostgreSQL, Tableau, dbt",5
+C0146518,Drew Persson,R002,2026-05-18,2026-01-07,Neutral,Yes,Remote,Gothenburg,"ETL, Excel, Kubernetes, Node, React, Snowflake, Terraform, Testing",1
+C9732352,Morgan Johansson,R006,2026-06-23,2025-12-23,Neutral,Yes,Hybrid,Stockholm,"FastAPI, Kubernetes, Linux, Node, Python, React, Terraform",4
+C1293908,Alex Svensson,R001,2026-03-29,2026-02-07,Neutral,Yes,Remote,Stockholm,"Data Modeling, Excel, FastAPI, Looker, dbt",4
+C0164726,Drew Berg,R003,2026-05-21,2025-12-23,Neutral,No,Hybrid,Gothenburg,"Airflow, Azure, CI CD, ETL, Looker, Node, PostgreSQL, Python, Snowflake, Terraform",4
+C2225162,Elin Larsson,R005,2026-06-30,2026-01-02,Neutral,Yes,Remote,Malmo,"Azure, Kubernetes, Node, REST APIs, SQL",5
+C8794927,Quinn Larsson,R006,2026-06-27,2026-01-10,Neutral,No,On site,Remote,"AWS, Airflow, Data Modeling, Docker, FastAPI, Kubernetes, Looker, Pandas, PostgreSQL, Python",0
+C4432607,Liam Karlsson,R004,2026-02-21,2025-12-18,Neutral,Yes,Hybrid,Stockholm,"Azure, CI CD, Docker, Excel, Python, REST APIs, React, Tableau, Terraform",4
+C4303707,Maja Johansson,R005,2026-06-21,2026-01-26,Neutral,Yes,On site,Remote,"Azure, Excel, Kubernetes, Looker, Snowflake, Tableau, Terraform",6
+C3753411,Cameron Svensson,R004,2026-04-13,2026-01-21,Cold,Yes,Hybrid,Remote,"Azure, CI CD, Data Modeling, Excel, FastAPI, Linux, PostgreSQL, SQL, Spark, Testing",3
+C0929296,Casey Larsson,R005,2026-03-10,2026-01-16,Neutral,No,Hybrid,Gothenburg,"Kubernetes, PostgreSQL, SQL, Snowflake, Spark",0
+C3561653,Quinn Eriksson,R002,2026-05-28,2025-11-25,Cold,No,Remote,Gothenburg,"Azure, GCP, Kubernetes, Linux, Looker, PostgreSQL, Python, SQL, Snowflake, dbt",0
+C3504487,Jamie Lind,R006,2026-04-17,2026-01-15,Warm,Maybe,On site,Gothenburg,"Azure, Data Modeling, ETL, Excel, Linux, Pandas, Snowflake, Spark, Testing",2
+C8335218,Alex Andersson,R002,2026-05-17,2026-02-16,Warm,No,Remote,Stockholm,"Azure, ETL, Kubernetes, Linux, Looker, PostgreSQL, Python, React, Tableau, Terraform",4
+C8306615,Sam Svensson,R006,2026-05-24,2025-12-19,Warm,Maybe,Remote,Malmo,"AWS, Data Modeling, Excel, Looker, Pandas, REST APIs, React, Testing",1
+C7978874,Taylor Karlsson,R004,2026-03-13,2025-12-30,Warm,No,On site,Malmo,"Azure, Docker, Excel, FastAPI, Linux, REST APIs, Tableau",1
+C9128114,Noah Persson,R003,2026-04-05,2026-01-14,Warm,Yes,Remote,Gothenburg,"Data Modeling, Docker, ETL, FastAPI, Kubernetes, Linux, Looker, REST APIs, Snowflake, Testing",8
+C5281710,Sam Olsson,R001,2026-06-12,2026-01-03,Warm,Maybe,On site,Malmo,"ETL, FastAPI, Snowflake, Terraform, dbt",8
+C6291828,Elin Persson,R002,2026-04-01,2026-01-19,Neutral,No,On site,Uppsala,"AWS, Airflow, Excel, Linux, Looker, Power BI, SQL, Snowflake, Terraform, dbt",4
+C4154004,Maja Karlsson,R002,2026-03-17,2025-12-05,Neutral,Yes,On site,Uppsala,"Airflow, Azure, CI CD, Looker, Pandas, SQL, Snowflake, Testing",0
+C6029729,Jamie Persson,R005,2026-02-21,2026-02-16,Warm,Yes,On site,Gothenburg,"AWS, Airflow, Azure, CI CD, Excel, GCP, React, Spark, Testing",6
+C3708752,Riley Berg,R003,2026-06-23,2026-02-01,Warm,No,Remote,Malmo,"AWS, Azure, GCP, Pandas, Power BI, REST APIs, React, Spark, Tableau",6
+C8930378,Sam Johansson,R002,2026-05-22,2026-01-08,Cold,No,Remote,Gothenburg,"Node, Pandas, Power BI, REST APIs, React, SQL, Snowflake, Spark, Testing",2
+C4044657,Liam Karlsson,R005,2026-05-19,2026-01-29,Cold,No,Remote,Remote,"CI CD, ETL, Excel, GCP, Python, Snowflake, Spark, Tableau, Testing",7
+C1656605,Noah Andersson,R001,2026-03-03,2026-02-12,Cold,Maybe,Hybrid,Uppsala,"Docker, Excel, FastAPI, GCP, Looker, Tableau",3
+C9334323,Jamie Gustafsson,R004,2026-06-06,2026-02-04,Cold,Yes,Remote,Malmo,"Airflow, Azure, ETL, FastAPI, Looker, PostgreSQL",2
+C0150682,Elin Berg,R003,2026-06-08,2026-02-04,Warm,No,On site,Gothenburg,"Azure, CI CD, Data Modeling, Linux, dbt",1
+C8937933,Alex Olsson,R006,2026-05-13,2026-02-15,Cold,No,On site,Stockholm,"Data Modeling, GCP, Kubernetes, Linux, Pandas, Python, SQL, Testing, dbt",6
+C8460394,Riley Karlsson,R005,2026-06-29,2026-01-06,Neutral,No,Hybrid,Gothenburg,"Data Modeling, GCP, Kubernetes, SQL, Testing, dbt",2
+C4092917,Alex Johansson,R004,2026-05-08,2026-02-16,Warm,No,Remote,Malmo,"AWS, Airflow, Data Modeling, Excel, Kubernetes, Looker, Node, Pandas, REST APIs",0
+C9867772,Jordan Svensson,R003,2026-03-01,2025-12-11,Warm,Yes,Remote,Uppsala,"Azure, Data Modeling, Docker, ETL, FastAPI, Kubernetes, SQL, Spark, Tableau, Testing",2
+C0307040,Alex Olsson,R001,2026-05-04,2026-02-08,Cold,Yes,Remote,Gothenburg,"CI CD, Data Modeling, ETL, Linux, Looker, Power BI, Python, Terraform",0
+C6750738,Alex Olsson,R006,2026-05-27,2026-02-12,Warm,No,Hybrid,Remote,"Docker, GCP, Pandas, Power BI, SQL, Snowflake, Terraform",0
+C5306230,Drew Olsson,R005,2026-04-04,2026-01-26,Cold,Maybe,Remote,Malmo,"Airflow, Azure, CI CD, Data Modeling, Docker, Node, SQL, Spark, Terraform, dbt",8
+C6665303,Drew Johansson,R002,2026-03-15,2026-02-05,Neutral,Yes,Remote,Gothenburg,"Data Modeling, GCP, Linux, Power BI, REST APIs, React, Tableau, dbt",5
+C4761160,Sam Eriksson,R001,2026-05-08,2026-02-14,Cold,Yes,On site,Malmo,"Data Modeling, FastAPI, GCP, Linux, Power BI, Python, REST APIs, React, Snowflake, dbt",0
+C3496138,Avery Karlsson,R001,2026-05-24,2026-02-07,Neutral,No,On site,Malmo,"Airflow, Azure, Excel, FastAPI, GCP, REST APIs, Tableau, Testing, dbt",4
+C2922711,Quinn Gustafsson,R002,2026-04-03,2026-02-07,Cold,No,Remote,Malmo,"AWS, Python, React, SQL, dbt",0
+C5091521,Cameron Larsson,R002,2026-03-08,2025-12-05,Cold,Maybe,Hybrid,Gothenburg,"AWS, CI CD, Kubernetes, PostgreSQL, Python, dbt",3
+C7626877,Liam Andersson,R006,2026-03-16,2026-02-04,Neutral,Maybe,Hybrid,Stockholm,"Data Modeling, FastAPI, Kubernetes, Pandas, Power BI",1
+C2242032,Elin Eriksson,R003,2026-06-23,2025-12-29,Cold,Yes,Hybrid,Gothenburg,"Airflow, Data Modeling, ETL, Node, Pandas, Power BI, React, dbt",2
+C6940671,Sofia Berg,R002,2026-03-22,2026-02-16,Warm,No,Hybrid,Malmo,"Excel, FastAPI, Kubernetes, Looker, PostgreSQL, REST APIs, SQL, Terraform",8
+C6639529,Taylor Berg,R003,2026-06-29,2026-01-31,Neutral,Maybe,Hybrid,Malmo,"Azure, Kubernetes, Linux, Looker, React, SQL, Snowflake, Spark, Terraform",7
+C5708782,Cameron Nilsson,R006,2026-06-13,2026-02-07,Cold,Yes,On site,Stockholm,"CI CD, Data Modeling, Docker, Kubernetes, REST APIs, React",8
+C6167496,Sam Andersson,R005,2026-07-04,2026-02-04,Neutral,Maybe,On site,Malmo,"CI CD, PostgreSQL, Python, React, SQL, Tableau",2
+C6280878,Alex Gustafsson,R005,2026-06-09,2026-01-07,Neutral,Yes,Remote,Malmo,"CI CD, ETL, PostgreSQL, Spark, Testing",1
+C0095383,Quinn Karlsson,R002,2026-02-20,2025-12-28,Neutral,No,On site,Malmo,"Docker, GCP, Linux, Looker, Power BI",2
+C3043044,Noah Gustafsson,R003,2026-06-20,2026-01-28,Neutral,No,Remote,Remote,"CI CD, Looker, Node, PostgreSQL, REST APIs",4
+C7623986,Liam Persson,R003,2026-06-12,2025-12-30,Warm,No,Remote,Remote,"Docker, GCP, Looker, Node, Python, Snowflake",1
+C5205947,Robin Svensson,R001,2026-05-10,2026-02-07,Neutral,Yes,On site,Malmo,"AWS, Azure, FastAPI, GCP, Kubernetes, Node, Pandas, Spark, Terraform, dbt",2
+C3899793,Casey Berg,R004,2026-05-15,2025-12-24,Warm,Maybe,Hybrid,Uppsala,"AWS, Airflow, Excel, GCP, Linux, Pandas, PostgreSQL, React, Snowflake, Spark",4
+C1833772,Morgan Berg,R006,2026-06-14,2026-01-06,Warm,No,Remote,Uppsala,"AWS, CI CD, FastAPI, PostgreSQL, Python, SQL, Tableau",2
+C9264159,Riley Berg,R004,2026-04-11,2026-02-04,Neutral,No,Remote,Uppsala,"CI CD, Docker, Excel, FastAPI, PostgreSQL",1
+C3396200,Maja Persson,R001,2026-03-31,2026-01-12,Warm,No,On site,Remote,"GCP, Kubernetes, Pandas, Python, REST APIs, Tableau",1
+C7668183,Riley Lind,R005,2026-05-02,2025-12-18,Cold,Maybe,On site,Uppsala,"AWS, Data Modeling, Docker, ETL, PostgreSQL, SQL, Spark, Testing",5
+C3299796,Sam Johansson,R005,2026-06-03,2026-02-03,Cold,Yes,On site,Gothenburg,"Data Modeling, Docker, GCP, Kubernetes, Node, PostgreSQL, Python, SQL, Spark, Testing",8
+C0107478,Morgan Eriksson,R004,2026-05-06,2026-01-02,Warm,Yes,Hybrid,Remote,"Airflow, CI CD, Docker, ETL, Excel, Linux, Pandas, Python, Snowflake, dbt",7
+C2029728,Noah Olsson,R002,2026-03-21,2026-01-01,Cold,Yes,On site,Gothenburg,"Airflow, Azure, CI CD, Docker, Looker, Pandas, PostgreSQL, REST APIs",2
+C0381750,Jordan Larsson,R004,2026-05-20,2025-12-09,Neutral,No,On site,Uppsala,"Azure, GCP, Looker, Node, Power BI, Spark, Tableau, Testing",7
+C1898692,Emma Gustafsson,R004,2026-02-25,2026-02-15,Cold,Yes,On site,Uppsala,"Data Modeling, Excel, Looker, Pandas, Power BI, Python, Snowflake, Tableau",3
+C0128400,Robin Andersson,R006,2026-03-24,2026-02-03,Cold,No,Remote,Remote,"Pandas, Power BI, REST APIs, Spark, Terraform, dbt",2
+C0413978,Robin Lind,R006,2026-04-11,2026-02-12,Cold,No,Remote,Uppsala,"CI CD, Docker, Excel, GCP, Looker, Pandas, Power BI",7
+C1410456,Sam Persson,R005,2026-02-27,2026-01-10,Warm,No,On site,Remote,"Data Modeling, Linux, PostgreSQL, Python, REST APIs, SQL, dbt",3
+C8062436,Avery Lind,R003,2026-03-28,2025-12-19,Neutral,Maybe,Hybrid,Gothenburg,"Azure, CI CD, Excel, Kubernetes, Looker, Pandas, Python, SQL, Snowflake, Testing",1
+C7259575,Morgan Johansson,R006,2026-03-06,2026-02-03,Warm,Yes,Remote,Remote,"AWS, Data Modeling, ETL, GCP, Kubernetes, Linux, Looker, REST APIs, SQL, Tableau",4
+C0093216,Cameron Nilsson,R003,2026-05-02,2026-02-14,Cold,Yes,Hybrid,Remote,"Azure, ETL, GCP, Linux, Python, Snowflake, Testing",8
+C8118267,Cameron Nilsson,R002,2026-03-16,2025-12-14,Cold,No,Remote,Gothenburg,"Data Modeling, ETL, Power BI, Python, Snowflake",6
+C4565154,Jamie Lind,R005,2026-05-02,2026-02-13,Cold,No,On site,Malmo,"Airflow, ETL, GCP, Looker, Node, Python, SQL, Terraform, Testing",5
+C1539302,Jordan Larsson,R004,2026-04-03,2026-02-03,Cold,Yes,Remote,Malmo,"Airflow, Azure, FastAPI, Power BI, Python",8
+C5406834,Jordan Eriksson,R006,2026-05-13,2025-12-05,Neutral,No,Remote,Remote,"Docker, FastAPI, Linux, Node, Testing",2
+C2451339,Emma Gustafsson,R004,2026-02-22,2026-02-13,Warm,Yes,On site,Uppsala,"Data Modeling, Excel, GCP, Node, Pandas, Power BI, Tableau, Terraform",0
+C9011893,Elin Eriksson,R003,2026-05-22,2026-02-05,Cold,Yes,Remote,Malmo,"AWS, ETL, Linux, Power BI, React, Spark, Tableau, Testing, dbt",7
+C5781315,Alex Persson,R004,2026-05-18,2025-12-04,Warm,Maybe,Remote,Stockholm,"Airflow, CI CD, GCP, Kubernetes, Terraform, dbt",4
+C9723796,Cameron Johansson,R006,2026-05-03,2025-12-05,Neutral,No,On site,Gothenburg,"Docker, ETL, Linux, Power BI, Python, Tableau, Testing",8
+C9776159,Sam Nilsson,R001,2026-03-12,2026-02-05,Neutral,No,Hybrid,Remote,"AWS, Data Modeling, Excel, FastAPI, Power BI, Spark, Tableau",6
+C0840366,Avery Svensson,R005,2026-04-26,2026-01-14,Warm,Yes,Remote,Malmo,"AWS, GCP, Kubernetes, Looker, PostgreSQL, REST APIs",3
+C9407106,Avery Larsson,R001,2026-06-17,2026-01-30,Neutral,No,Hybrid,Uppsala,"Airflow, ETL, Excel, Kubernetes, Looker, SQL, Snowflake, Testing, dbt",2
+C3447703,Liam Berg,R001,2026-03-17,2026-02-14,Neutral,Maybe,On site,Gothenburg,"Airflow, Docker, FastAPI, Linux, Looker, Node, Power BI, Spark, Tableau, dbt",2
+C1019698,Sam Eriksson,R006,2026-03-18,2026-01-16,Neutral,No,On site,Uppsala,"AWS, Azure, Data Modeling, ETL, GCP, Pandas, PostgreSQL, SQL, Snowflake, dbt",4
+C3663381,Cameron Svensson,R005,2026-04-03,2026-02-07,Cold,No,Remote,Remote,"AWS, Azure, GCP, Linux, Node, Pandas, SQL",6
+C5437404,Quinn Nilsson,R005,2026-06-20,2026-01-18,Neutral,Maybe,Hybrid,Uppsala,"Docker, ETL, Excel, GCP, Pandas, PostgreSQL, Power BI, Spark, Terraform, dbt",7
+C2507503,Robin Lind,R001,2026-03-03,2026-02-06,Neutral,Maybe,Hybrid,Remote,"AWS, Docker, Excel, FastAPI, Kubernetes, PostgreSQL, Python, Terraform",6
+C9385489,Jamie Karlsson,R006,2026-03-01,2026-02-01,Warm,No,Remote,Remote,"Azure, CI CD, Docker, GCP, PostgreSQL, Python, SQL, Terraform",0
+C4522353,Elin Nilsson,R005,2026-05-24,2026-02-09,Warm,Maybe,On site,Gothenburg,"CI CD, ETL, Excel, PostgreSQL, SQL, Snowflake, Testing",5
+C7125466,Taylor Svensson,R003,2026-02-21,2026-02-13,Warm,No,Remote,Gothenburg,"Airflow, Azure, CI CD, Excel, Looker, Node, REST APIs, React, Tableau, Terraform",1
+C3962376,Robin Karlsson,R005,2026-05-31,2026-02-05,Cold,No,Hybrid,Stockholm,"AWS, Data Modeling, Docker, GCP, PostgreSQL, SQL",7
+C0274309,Morgan Andersson,R006,2026-02-23,2026-02-14,Neutral,Maybe,On site,Malmo,"CI CD, Data Modeling, Looker, Node, PostgreSQL, Power BI, Snowflake, Spark, Terraform, Testing",0
+C0583702,Robin Persson,R004,2026-04-25,2025-12-22,Warm,Maybe,Remote,Gothenburg,"AWS, Docker, ETL, Linux, Node, Pandas, React, Spark, Terraform, Testing",5
+C9815782,Elin Persson,R003,2026-04-11,2025-12-06,Neutral,Maybe,On site,Gothenburg,"Azure, CI CD, Docker, ETL, Looker, Node, Snowflake",7
+C9184242,Emma Olsson,R005,2026-02-18,2026-01-09,Cold,Yes,Remote,Stockholm,"AWS, GCP, Looker, Snowflake, dbt",0
+C7292740,Robin Berg,R002,2026-06-27,2026-02-13,Neutral,No,Remote,Stockholm,"Data Modeling, Docker, Looker, Pandas, PostgreSQL, React, Snowflake, Spark, Tableau, dbt",7
+C1067080,Noah Lind,R003,2026-06-09,2026-01-31,Neutral,No,Hybrid,Stockholm,"AWS, Airflow, CI CD, ETL, Kubernetes, Linux, React",8
+C0361355,Drew Olsson,R005,2026-04-21,2026-02-04,Warm,Yes,Hybrid,Gothenburg,"AWS, Docker, ETL, Power BI, Python, REST APIs, Tableau",8
+C5412016,Quinn Eriksson,R004,2026-07-04,2026-02-06,Neutral,No,On site,Malmo,"Airflow, Data Modeling, Excel, PostgreSQL, Snowflake",1
+C2436294,Drew Berg,R006,2026-05-23,2026-01-02,Neutral,Maybe,On site,Remote,"CI CD, Data Modeling, PostgreSQL, Python, Spark, dbt",5
+C2172893,Jordan Andersson,R005,2026-04-01,2026-02-05,Warm,Yes,Hybrid,Malmo,"Data Modeling, Node, Power BI, Spark, Terraform",5
+C1380539,Sofia Berg,R006,2026-06-25,2026-02-07,Cold,Maybe,On site,Uppsala,"AWS, ETL, Excel, Kubernetes, Looker, Node, Pandas, React, SQL",8
+C7060508,Alex Lind,R003,2026-04-06,2026-01-29,Cold,Maybe,Hybrid,Remote,"FastAPI, GCP, Pandas, PostgreSQL, Terraform, dbt",6
+C4045010,Noah Gustafsson,R003,2026-04-21,2025-12-23,Warm,Yes,On site,Malmo,"Azure, Linux, Looker, Node, PostgreSQL, Power BI, Python, REST APIs, Spark",3
+C7486386,Avery Larsson,R003,2026-03-24,2026-02-07,Warm,Yes,Hybrid,Uppsala,"Airflow, Docker, FastAPI, Kubernetes, REST APIs, SQL, Snowflake, Spark, Testing",5
+C6984878,Emma Nilsson,R002,2026-02-16,2025-12-31,Neutral,Maybe,Hybrid,Remote,"Airflow, CI CD, Data Modeling, Docker, Excel, Looker, Power BI, SQL, Snowflake, Tableau",6
+C5220134,Jamie Karlsson,R001,2026-03-28,2026-01-11,Neutral,No,On site,Malmo,"ETL, GCP, Pandas, React, dbt",7
+C0095515,Jamie Eriksson,R005,2026-06-20,2026-01-28,Warm,Maybe,Hybrid,Uppsala,"Excel, Looker, Pandas, Power BI, React, Tableau",4
+C3718065,Emma Svensson,R003,2026-05-08,2026-02-15,Warm,No,Remote,Remote,"CI CD, Docker, Node, Python, React, Spark, dbt",8

@@ -1,0 +1,7 @@
+role_id,role_title,target_start_date,priority,scarcity_level,office_requirement,location
+R001,Data Engineer,2026-06-10,Low,Medium,Hybrid,Stockholm
+R002,ML Engineer,2026-05-07,Low,High,Remote,Stockholm
+R003,Backend Engineer,2026-05-13,High,Medium,On site,Stockholm
+R004,Product Analyst,2026-06-05,High,Low,Hybrid,Stockholm
+R005,DevOps Engineer,2026-05-02,High,Low,On site,Stockholm
+R006,QA Engineer,2026-05-23,Low,Low,Hybrid,Stockholm
